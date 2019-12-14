@@ -4655,7 +4655,7 @@ $_ADMINLANG['validation']['url'] = "The :attribute format is invalid.";
 
 $_ADMINLANG['ssl_warning']['insecure_connection'] = "You are currently accessing the admin area using an insecure connection. We recommend using SSL encryption (https) for security.";
 $_ADMINLANG['ssl_warning']['dont_have_ssl'] = "If you don't yet have an SSL Certificate, you can :buyLink";
-$_ADMINLANG['ssl_warning']['buy_link'] = "buy one here";
+$_ADMINLANG['ssl_warning']['buy_link'] = "compre um aqui";
 
 $_ADMINLANG['maxmind']['riskScore'] = "Overall Risk Score";
 $_ADMINLANG['maxmind']['highRiskCountry'] = "High Risk Country";
@@ -4864,26 +4864,26 @@ $_ADMINLANG['apps']['nav']['browse'] = "Browse";
 $_ADMINLANG['apps']['nav']['active'] = "Active";
 $_ADMINLANG['apps']['nav']['search'] = "Search";
 
-$_ADMINLANG['apps']['searchPlaceholder'] = "Search apps";
+$_ADMINLANG['apps']['searchPlaceholder'] = "Search Apps";
 $_ADMINLANG['apps']['activeDescription'] = "The following apps are active in your WHMCS installation.";
 $_ADMINLANG['apps']['searchResultsTitle'] = "Search Results";
 $_ADMINLANG['apps']['searchMatchesFound'] = "Matches Found";
 $_ADMINLANG['apps']['searchMinSearchTerm'] = "Please enter a search term of at least 3 characters or more";
 $_ADMINLANG['apps']['searchNoResultsFound'] = "Please try broadening your search term or try an alternative keyword";
 $_ADMINLANG['apps']['recommendedTitle'] = "Recommended for you";
-$_ADMINLANG['apps']['categoriesTitle'] = "Categories";
-$_ADMINLANG['apps']['viewAll'] = "View All";
+$_ADMINLANG['apps']['categoriesTitle'] = "Categorias";
+$_ADMINLANG['apps']['viewAll'] = "Ver Tudo";
 $_ADMINLANG['apps']['noActiveApps'] = "You don't have any active Apps at this time!";
 
-$_ADMINLANG['apps']['info']['features'] = "Features";
-$_ADMINLANG['apps']['info']['category'] = "Category";
-$_ADMINLANG['apps']['info']['support'] = "Support";
-$_ADMINLANG['apps']['info']['homepage'] = "Homepage";
-$_ADMINLANG['apps']['info']['getSupport'] = "Get Support";
-$_ADMINLANG['apps']['info']['contactSupport'] = "Contact Support";
-$_ADMINLANG['apps']['info']['documentation'] = "Documentation";
-$_ADMINLANG['apps']['info']['learnMore'] = "Learn More";
-$_ADMINLANG['apps']['info']['version'] = "Version";
+$_ADMINLANG['apps']['info']['features'] = "Recursos";
+$_ADMINLANG['apps']['info']['category'] = "Categoria";
+$_ADMINLANG['apps']['info']['support'] = "Suporte";
+$_ADMINLANG['apps']['info']['homepage'] = "Pagina Inicial";
+$_ADMINLANG['apps']['info']['getSupport'] = "Obter Suporte";
+$_ADMINLANG['apps']['info']['contactSupport'] = "Entre em contato com o suporte";
+$_ADMINLANG['apps']['info']['documentation'] = "Documentação";
+$_ADMINLANG['apps']['info']['learnMore'] = "Saber mais";
+$_ADMINLANG['apps']['info']['version'] = "Versão";
 $_ADMINLANG['apps']['info']['developer'] = "Integration Developer";
 $_ADMINLANG['apps']['info']['tags'] = "Tags";
 $_ADMINLANG['apps']['info']['alreadyActive'] = "Already Active";
@@ -4931,7 +4931,7 @@ $_ADMINLANG['payments']['localEncryption'] = "Local Encryption";
 $_ADMINLANG['payments']['ignoreErrorAndDelete'] = "Ignore Error & Delete";
 
 # Advanced Search Options
-$_ADMINLANG['searchOptions']['clientCompanyName'] = "Client/Company Name";
+$_ADMINLANG['searchOptions']['clientCompanyName'] = "Nome do Cliente/Empresa";
 $_ADMINLANG['searchOptions']['advanced'] = "Advanced";
 $_ADMINLANG['searchOptions']['ccType'] = "Credit Card Type";
 $_ADMINLANG['searchOptions']['ccLastFour'] = "Credit Card Last Four";
@@ -4940,8 +4940,8 @@ $_ADMINLANG['searchOptions']['signupDate'] = "Signup Date";
 $_ADMINLANG['searchOptions']['emailVerificationStatus'] = "Email Verification Status";
 $_ADMINLANG['searchOptions']['autoStatusUpdate'] = "Automatic Status Update";
 $_ADMINLANG['searchOptions']['taxExemptStatus'] = "Tax Exempt Status";
-$_ADMINLANG['searchOptions']['enabled'] = "Enabled";
-$_ADMINLANG['searchOptions']['disabled'] = "Disabled";
+$_ADMINLANG['searchOptions']['enabled'] = "Ativado";
+$_ADMINLANG['searchOptions']['disabled'] = "Desativado";
 $_ADMINLANG['searchOptions']['optedIn'] = "Opted-In";
 $_ADMINLANG['searchOptions']['optedOut'] = "Opted-Out";
 $_ADMINLANG['searchOptions']['verified'] = "Verified";
