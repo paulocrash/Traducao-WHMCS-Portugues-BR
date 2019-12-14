@@ -56,7 +56,7 @@ Tradução do WHMCS v7.X.X | Português - Brasil, baseada no arquivo Português 
 Precisando de suporte, basta usar [Issues](https://github.com/paulocrash/Traducao-WHMCS-7.x-pt_BR/issues/new/choose) ou nosso [Discord](https://discord.gg/vzCanCk).
 
 ### Contribuição
-1. Faça o ***fork*** do projeto [clicando aqui](https://github.com/paulocrash/Traducao-WHMCS-7.x-pt_BR/fork); 
+1. Faça o ***fork*** do projeto [clicando aqui](https://github.com/paulocrash/Traducao-WHMCS-Portugues-BR/fork); 
 2. Faça as alterações que gostaria em seu ***fork***;
 3. Feito as alterações faça um *Pull Request** do seu fork para o nosso branch ***dev***;
 
