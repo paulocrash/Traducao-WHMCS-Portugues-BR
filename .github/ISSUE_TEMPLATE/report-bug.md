@@ -20,8 +20,8 @@ Etapas para reproduzir o problema:
 ### Comportamento esperado
 Uma descrição clara e concisa do que você esperava que acontecesse.
 
-### Capturas de tela, vídeos e links
-Se possível, adicione capturas de tela, vídeos e links para ajudar a explicar seu problema.
+### Screenshots, Vídeos & Links
+Se possível, adicione screenshots, vídeos e links para ajudar a explicar seu problema.
 
 ### Contexto adicional
 Adicione qualquer outra informação sobre o problema aqui.
