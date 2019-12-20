@@ -24,29 +24,30 @@ Tradução do WHMCS v7.X.X | Português - Brasil, baseada no arquivo Português 
 7. No campo ***"Idioma, selecione 'Portugues', insira sua senha em 'Confirmar Senha' e clique em Salvar Alterações"***;
 
 ### Changelog
-###### XX/XX/XXXX
-- Update para a versão 7.8.3;
+###### 20/12/2019
+- Atualizado para a versão 7.8.3;
+- Atualizado o README;
+- Adicionado novas traduções;
 - Teste de compatibilidade efetuado na versão 7.8.3;
 - Traduções incorretas corrigidas;
-- Adicionadas novas traduções;
 
 ###### 20/01/2018
- - Update para a versão 7.4.2;
+ - Atualizado para a versão 7.4.2;
  - Teste de compatibilidade efetuado na versão 7.4.2;
  - Traduções incorretas corrigidas;
- - Adicionadas novas traduções;
+ - Adicionado novas traduções;
  
 ###### 03/11/2017
- - Update para a versão 7.3.0;
+ - Atualizado para a versão 7.3.0;
  - Teste de compatibilidade efetuado na versão 7.3.0;
  - Traduções incorretas corrigidas;
- - Adicionadas novas traduções;
+ - Adicionado novas traduções;
  
 ###### 18/07/2017
- - Update para a versão 7.2.3;
+ - Atualizado para a versão 7.2.3;
  - Teste de compatibilidade efetuado na versão 7.2.3;
  - Traduções incorretas corrigidas;
- - Adicionadas novas traduções;
+ - Adicionado novas traduções;
 
 ###### 02/06/2017
  - Teste de compatibilidade efetuado na versão 7.2.2;
@@ -56,9 +57,12 @@ Tradução do WHMCS v7.X.X | Português - Brasil, baseada no arquivo Português 
 Precisando de suporte, basta usar [Issues](https://github.com/paulocrash/Traducao-WHMCS-7.x-pt_BR/issues/new/choose) ou nosso [Discord](https://discord.gg/vzCanCk).
 
 ### Contribuição
-1. Faça o ***fork*** do projeto [clicando aqui](https://github.com/paulocrash/Traducao-WHMCS-7.x-pt_BR/fork); 
-2. Faça as alterações que gostaria em seu ***fork***;
-3. Feito as alterações faça um *Pull Request** do seu fork para o nosso branch ***dev***;
+Tem alguma contribuição que gostaria de fazer para o projeto, algum BUG que encontrou e corrigiu, seja bem-vindo, faça um **Pull Request** e ajude a comunidade.
 
-### Agradecimentos
+**Como fazer um *Pull Request:***
+1. Faça o ***fork*** do projeto [clicando aqui](https://github.com/paulocrash/Traducao-WHMCS-Portugues-BR/fork); 
+2. Faça as alterações que gostaria em seu ***fork***;
+3. Feito as alterações faça um ***Pull Request*** do seu fork para o nosso branch ***dev***;
+
+### Créditos
 * [suportgc](https://github.com/suportgc) - Versão de tradução usada do [Fork](https://github.com/suportgc/Traducao-WHMCS-7.x-pt_BR);
