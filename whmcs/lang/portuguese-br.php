@@ -852,7 +852,7 @@ $_LANG['pwresetsecurityquestionrequired'] = "Como você tem cadastrada uma pergu
 $_LANG['pwresetsecurityquestionincorrect'] = "A resposta à pergunta de segurança não corresponde a resposta cadastrada em sua conta";
 $_LANG['pwresetsubmit'] = "Enviar";
 $_LANG['pwresetrequested'] = "Password Reset Requested";
-$_LANG['pwresetcheckemail'] = "If the email address you entered matched an existing account, please check your email for instructions on what to do next.";
+$_LANG['pwresetcheckemail'] = "If the e-mail address you entered matched an existing account, please check your e-mail for instructions on what to do next.";
 $_LANG['pwresetkeyinvalid'] = "O link para redefinir sua senha é inválido. Tente novamente.";
 $_LANG['pwresetkeyexpired'] = "O link para redefinir sua senha expirou. Tente novamente.";
 $_LANG['pwresetvalidationsuccess'] = "Senha Redefinida com Sucesso";
@@ -1689,7 +1689,7 @@ $_LANG['supportAndUpdatesExpiredLicense'] = "Seu suporte e atualizações para e
 $_LANG['supportAndUpdatesRenewalRequired'] = "Suporte e acesso Atualizações precisa ser renovado antes você pode acessar esta download.";
 $_LANG['supportAndUpdatesClickHereToRenew'] = "Clique aqui para renovar";
 
-$_LANG['pwresetemailneeded'] = "Esqueceu sua senha? Digite seu email abaixo para iniciar o processo de reinicialização.";
+$_LANG['pwresetemailneeded'] = "Esqueceu sua senha? Digite seu e-mail abaixo para iniciar o processo de reinicialização.";
 
 $_LANG['quotestageexpired'] = "Expirado";
 
@@ -2023,14 +2023,14 @@ $_LANG['sso']['disabled'] = "Single Sign-On está atualmente desativado para a s
 $_LANG['sso']['redirectafterlogin'] = "Você será redirecionado após o login";
 
 $_LANG['oauth']['badTwoFactorAuthModule'] = "Bad Two-Factor módulo Auth. Entre em contato com o suporte.";
-$_LANG['oauth']['permAccessNameAndEmail'] = "Acesse o seu nome e endereço de email";
+$_LANG['oauth']['permAccessNameAndEmail'] = "Acesse o seu nome e endereço de e-mail";
 
 $_LANG['errorButTryAgain'] = "Ocorreu um erro. Por favor, tente novamente.";
-$_LANG['emailSent'] = "Email enviado";
+$_LANG['emailSent'] = "E-mail enviado";
 $_LANG['verificationKeyExpired'] = "Essa chave de confirmação foi expirada. Por favor faça o login em sua conta e solicite uma nova mensagem.";
-$_LANG['emailAddressVerified'] = "Obrigado por confirmar seu endereço de email.";
-$_LANG['emailKeyExpired'] = "Esse email de confirmação foi expirado. Por favor solicite uma nova mensagem de confirmação.";
-$_LANG['verifyEmailAddress'] = "Por favor confirme seu endereço de email, verifique a mensagem enviada no seu endereço de email cadastrado.";
+$_LANG['emailAddressVerified'] = "Obrigado por confirmar seu endereço de e-mail.";
+$_LANG['emailKeyExpired'] = "Esse e-mail de confirmação foi expirado. Por favor solicite uma nova mensagem de confirmação.";
+$_LANG['verifyEmailAddress'] = "Por favor confirme seu endereço de e-mail, verifique a mensagem enviada no seu endereço de e-mail cadastrado.";
 $_LANG['resendEmail'] = "Reenviar mensagem";
 
 // Markdown Editor Help
@@ -2247,7 +2247,7 @@ $_LANG['remoteAuthn']['titleOr'] = "Or";
 $_LANG['remoteAuthn']['titleLinkedAccounts'] = "Linked Accounts";
 $_LANG['remoteAuthn']['provider'] = "Provider";
 $_LANG['remoteAuthn']['name'] = "Name";
-$_LANG['remoteAuthn']['emailAddress'] = "Email Address";
+$_LANG['remoteAuthn']['emailAddress'] = "E-mail Address";
 $_LANG['remoteAuthn']['actions'] = "Actions";
 $_LANG['remoteAuthn']['noLinkedAccounts'] = "No linked accounts found";
 $_LANG['remoteAuthn']['signInWith'] = "Sign in with :provider";
@@ -2256,7 +2256,7 @@ $_LANG['remoteAuthn']['signUpWith'] = "Sign Up with :provider";
 
 $_LANG['unlink'] = "Unlink";
 
-$_LANG['invoicePaymentSuccessAwaitingNotify'] = "Thank you for completing the payment process. We are awaiting notification to confirm the payment you just made. We will send you an email confirmation as soon as this has been received.";
+$_LANG['invoicePaymentSuccessAwaitingNotify'] = "Thank you for completing the payment process. We are awaiting notification to confirm the payment you just made. We will send you an e-mail confirmation as soon as this has been received.";
 
 $_LANG['errorPage']['404']['title'] = "Oops!";
 $_LANG['errorPage']['404']['subtitle'] = "We couldn't find that page";
@@ -2408,7 +2408,7 @@ $_LANG['validation']['date_format'] = "The :attribute does not match the format 
 $_LANG['validation']['different'] = "The :attribute and :other must be different.";
 $_LANG['validation']['digits'] = "The :attribute must be :digits digits.";
 $_LANG['validation']['digits_between'] = "The :attribute must be between :min and :max digits.";
-$_LANG['validation']['email'] = "The :attribute must be a valid email address.";
+$_LANG['validation']['email'] = "The :attribute must be a valid e-mail address.";
 $_LANG['validation']['exists'] = "The selected :attribute is invalid.";
 $_LANG['validation']['filled'] = "The :attribute field is required.";
 $_LANG['validation']['image'] = "The :attribute must be an image.";
@@ -2462,8 +2462,8 @@ $_LANG['store']['ssl']['cartShortDescription'] = "Add SSL to your web hosting to
 $_LANG['store']['weebly']['cartTitle'] = "Powerful Website Builder";
 $_LANG['store']['weebly']['cartShortDescription'] = "Add Weebly's drag and drop website builder to your hosting to allow you to create an awesome looking website, store or blog.";
 
-$_LANG['store']['spamexperts']['cartTitle'] = "SpamExperts Email Security";
-$_LANG['store']['spamexperts']['cartShortDescription'] = "Add professional email security and archiving to your domain to protect and secure your email against attacks and malware.";
+$_LANG['store']['spamexperts']['cartTitle'] = "SpamExperts E-mail Security";
+$_LANG['store']['spamexperts']['cartShortDescription'] = "Add professional e-mail security and archiving to your domain to protect and secure your e-mail against attacks and malware.";
 
 $_LANG['store']['sitelock']['cartTitle'] = "SiteLock Website Security";
 
@@ -2488,19 +2488,19 @@ $_LANG['domains']['optOut'] = "Opt-out of Transfer Lock (if available)";
 $_LANG['domains']['optOutReason'] = "Reason for Opt-Out (Optional)";
 $_LANG['domains']['contactChangePending'] = "Contact Change Pending";
 $_LANG['domains']['verificationRequired'] = "Verification Required";
-$_LANG['domains']['contactsChanged'] = "A request to change WHOIS information has triggered the contact verification process. An email has been sent to the registered domain owner to approve the changes.";
-$_LANG['domains']['contactsChangedDate'] = "A request to change WHOIS information has triggered the contact verification process. An email has been sent to the registered domain owner to approve the changes. This action must be completed by :date.";
-$_LANG['domains']['newRegistration'] = "An email has been sent to the registered domain owner. The verification must be completed to avoid suspension.";
-$_LANG['domains']['newRegistrationDate'] = "An email has been sent to the registered domain owner. The verification must be completed by :date to avoid suspension.";
+$_LANG['domains']['contactsChanged'] = "A request to change WHOIS information has triggered the contact verification process. An e-mail has been sent to the registered domain owner to approve the changes.";
+$_LANG['domains']['contactsChangedDate'] = "A request to change WHOIS information has triggered the contact verification process. An e-mail has been sent to the registered domain owner to approve the changes. This action must be completed by :date.";
+$_LANG['domains']['newRegistration'] = "An e-mail has been sent to the registered domain owner. The verification must be completed to avoid suspension.";
+$_LANG['domains']['newRegistrationDate'] = "An e-mail has been sent to the registered domain owner. The verification must be completed by :date to avoid suspension.";
 $_LANG['domains']['irtpLockEnabled'] = "IRTP Transfer Lock Enabled";
 $_LANG['domains']['irtpLockDescription'] = "This domain is currently locked for transfer due to a contact change or new registration.";
 $_LANG['domains']['irtpLockDescriptionDate'] = "This domain is currently locked for transfer due to a contact change or new registration. This will expire on :date.";
-$_LANG['domains']['resendNotification'] = "Resend Verification Email";
-$_LANG['domains']['resendNotificationQuestion'] = "Are you sure you wish to resend the email?";
-$_LANG['domains']['resendNotificationSuccess'] = "The verification email has been resent.";
+$_LANG['domains']['resendNotification'] = "Resend Verification E-mail";
+$_LANG['domains']['resendNotificationQuestion'] = "Are you sure you wish to resend the e-mail?";
+$_LANG['domains']['resendNotificationSuccess'] = "The verification e-mail has been resent.";
 $_LANG['domains']['modifyPending'] = "Verification Required";
-$_LANG['domains']['changePending'] = "Your requested change has triggered the contact verification process. An ownership verification email has been sent to :email. Click on the link in the email to apply the changes.";
-$_LANG['domains']['changePendingDate'] = "Your requested change has triggered the contact verification process. An ownership verification email has been sent to :email. Click on the link in the email within :days days to apply the changes.";
+$_LANG['domains']['changePending'] = "Your requested change has triggered the contact verification process. An ownership verification e-mail has been sent to :email. Click on the link in the e-mail to apply the changes.";
+$_LANG['domains']['changePendingDate'] = "Your requested change has triggered the contact verification process. An ownership verification e-mail has been sent to :email. Click on the link in the e-mail within :days days to apply the changes.";
 $_LANG['domains']['changePendingFormRequired'] = "Your change of Registrant contact information was submitted successfully. In order to complete the process, you are required to complete a <strong>Change of Registrant</strong> form. Please visit :form, complete the form following the instructions and return it to us to finalize the process.";
 
 $_LANG['getStartedNow'] = "Get Started Now";
@@ -2631,11 +2631,11 @@ $_LANG['store']['codeGuard']['features']['malwareMonitoringDescription'] = "Rest
 $_LANG['store']['codeGuard']['features']['wp'] = "Automatic WordPress Updates";
 $_LANG['store']['codeGuard']['features']['wpDescription'] = "Automatically update WordPress and its plugins to keep it secure with auto recovery in case of problems.";
 $_LANG['store']['codeGuard']['features']['fileMonitoring'] = "File Change Monitoring";
-$_LANG['store']['codeGuard']['features']['fileMonitoringDescription'] = "Get notified by email anytime something changes within the source code of your site.";
+$_LANG['store']['codeGuard']['features']['fileMonitoringDescription'] = "Get notified by e-mail anytime something changes within the source code of your site.";
 $_LANG['store']['codeGuard']['features']['servers'] = "Staging of Restores";
 $_LANG['store']['codeGuard']['features']['serversDescription'] = "Quickly test any backed up site with simple and automated staging prior to restore.";
-$_LANG['store']['codeGuard']['features']['email'] = "Email Backup";
-$_LANG['store']['codeGuard']['features']['emailDescription'] = "Get protection for your emails too as they are backed up as part of your websites files.";
+$_LANG['store']['codeGuard']['features']['email'] = "E-mail Backup";
+$_LANG['store']['codeGuard']['features']['emailDescription'] = "Get protection for your e-mails too as they are backed up as part of your websites files.";
 $_LANG['store']['codeGuard']['features']['api'] = "Full Automation";
 $_LANG['store']['codeGuard']['features']['apiDescription'] = "Completely hands free setup and ongoing backups with automated notifications if things go wrong.";
 $_LANG['store']['codeGuard']['chooseBackupPlan'] = "Choose Backup Storage";
@@ -2655,7 +2655,7 @@ $_LANG['store']['codeGuard']['faq']['a6'] = "Yes, backups are stored encrypted u
 $_LANG['store']['codeGuard']['faq']['q7'] = "Do you backup databases?";
 $_LANG['store']['codeGuard']['faq']['a7'] = "Yes, databases can be backed up also. Database backups are supported for MySQL and MSSQL databases.";
 $_LANG['store']['codeGuard']['faq']['q8'] = "What is File Change Alert Monitoring?";
-$_LANG['store']['codeGuard']['faq']['a8'] = "CodeGuard can monitor and notify you by email when your website changes to alert you to new threats and malware.";
+$_LANG['store']['codeGuard']['faq']['a8'] = "CodeGuard can monitor and notify you by e-mail when your website changes to alert you to new threats and malware.";
 $_LANG['store']['codeGuard']['faq']['q9'] = "What happens if my site gets infected?";
 $_LANG['store']['codeGuard']['faq']['a9'] = "With CodeGuard's daily snapshots, if your website gets attacked, you can restore to a previous uninfected version at any time.";
 
@@ -2924,14 +2924,14 @@ $_LANG['store']['ssl']['landingPage']['faq']['a6'] = "You can switch to us at an
 $_LANG['creditCardStore'] = "Save card for faster checkout in future";
 
 $_LANG['support']['ccRecipients'] = "CC Recipients";
-$_LANG['support']['addCcRecipients'] = "Enter Email Address";
+$_LANG['support']['addCcRecipients'] = "Enter E-mail Address";
 $_LANG['support']['removeRecipient'] = "Remove Recipient";
 $_LANG['support']['successDelete'] = "The cc recipient :email has been removed";
-$_LANG['support']['deleteEmailNotExisting'] = "The email :email is not a cc recipient";
-$_LANG['support']['addEmailExists'] = "The email :email is already a cc recipient";
+$_LANG['support']['deleteEmailNotExisting'] = "The e-mail :email is not a cc recipient";
+$_LANG['support']['addEmailExists'] = "The e-mail :email is already a cc recipient";
 $_LANG['support']['successAdd'] = "The cc recipient :email has been added";
-$_LANG['support']['clientEmail'] = "Client email address cannot be added as a cc recipient";
+$_LANG['support']['clientEmail'] = "Client e-mail address cannot be added as a cc recipient";
 $_LANG['support']['emailNotPossible'] = "It is not possible to add :email as a cc recipient";
-$_LANG['support']['invalidEmail'] = "Invalid email address entered.";
+$_LANG['support']['invalidEmail'] = "Invalid e-mail address entered.";
 
 ////////// End of portuguese-br language file.  Do not place any translation strings below this line!
