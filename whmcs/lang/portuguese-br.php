@@ -339,7 +339,7 @@ $_LANG['domainregisterns'] = "Registrar Nameservers";
 $_LANG['domainregisternscurrentip'] = "Endereço IP atual";
 $_LANG['domainregisternsdel'] = "Apague um NameServer";
 $_LANG['domainregisternsdelsuccess'] = "O nameserver  foi excluído com sucesso";
-$_LANG['domainregisternsexplanation'] = "A partir daqui você pode criar e gerenciar nameservers personalizados para seu domínio (ex. NS1.example.com, NS2.example.com...).";
+$_LANG['domainregisternsexplanation'] = "A partir daqui você pode criar e gerenciar nameservers personalizados para seu domínio (ex. ns1.exemplo.com, ns2.exemplo.com...).";
 $_LANG['domainregisternsip'] = "Endereço IP";
 $_LANG['domainregisternsmod'] = "Modifique o IP do Nameserver";
 $_LANG['domainregisternsmodsuccess'] = "O nameserver foi modificado com sucesso";
@@ -539,7 +539,7 @@ $_LANG['nocarddetails'] = "Não existe detalhes do cartão em nossos registros";
 $_LANG['none'] = "Nenhum";
 $_LANG['norecordsfound'] = "Nenhum registro encontrado";
 $_LANG['or'] = "ou";
-$_LANG['orderadditionalrequiredinfo'] = "Informações adicionais";
+$_LANG['orderadditionalrequiredinfo'] = "Informações Adicionais";
 $_LANG['orderaddon'] = "Adicionais";
 $_LANG['orderaddondescription'] = "Os seguintes adicionais estão disponíveis para este produto/serviço. Selecione os adicionais que você deseja abaixo.";
 $_LANG['orderavailable'] = "Disponível";
@@ -641,7 +641,7 @@ $_LANG['ordersecure'] = "Este procedimento é feito em um ambiente seguro e por 
 $_LANG['ordersecure2'] = "será gravado.";
 $_LANG['orderserverhostname'] = "Servidor";
 $_LANG['orderservernameservers'] = "Nameservers";
-$_LANG['orderservernameserversdescription'] = "Os prefixos que você digitar aqui irão determinar os nameservers para seu servidor. Ex: ns1.example.com and ns2.example.com";
+$_LANG['orderservernameserversdescription'] = "Os prefixos que você digitar aqui irão determinar os nameservers para seu servidor. Ex: ns1.exemplo.com and ns2.exemplo.com";
 $_LANG['orderservernameserversprefix1'] = "Prefixo 1";
 $_LANG['orderservernameserversprefix2'] = "Prefixo 2";
 $_LANG['orderserverrootpassword'] = "Senha";
@@ -760,7 +760,7 @@ $_LANG['supportticketserrornomessage'] = "Você não digitou sua Mensagem";
 $_LANG['supportticketserrornoname'] = "Você não digitou seu Nome";
 $_LANG['supportticketserrornosubject'] = "Você não digitou o Assunto";
 $_LANG['supportticketsfilenotallowed'] = "O arquivo que você tentou enviar não é permitido.";
-$_LANG['supportticketsheader'] = "Escolha o departamento abaixo para abrir um ticket.";
+$_LANG['supportticketsheader'] = "Escolha um departamento abaixo para abrir um novo ticket:";
 $_LANG['supportticketsnotfound'] = "O ticket não foi encontrado";
 $_LANG['supportticketsopentickets'] = "Tickets de Suporte abertos";
 $_LANG['supportticketspagetitle'] = "Tickets de Suporte";
@@ -1304,7 +1304,7 @@ $_LANG['creditcardexpirydateinvalid'] = "A data de expiração deve ser colocada
 
 $_LANG['domaincheckerchoosedomain'] = "Escolha um Domínio...";
 $_LANG['domaincheckerchecknewdomain'] = "Verificar disponibilidade de um Domínio";
-$_LANG['domaincheckerdomainexample'] = " ex. example.com";
+$_LANG['domaincheckerdomainexample'] = " ex. exemplo.com";
 $_LANG['domaincheckerhostingonly'] = "Assinar Somente Produto/Serviço";
 $_LANG['domaincheckerenterdomain'] = "Comece sua experiência na web colocando o domínio que você deseja registrar, tranferir ou somente assinar produtos/serviços abaixo...";
 
@@ -1514,9 +1514,9 @@ $_LANG['domaincontactdetails']['Phone'] = "Fone";
 $_LANG['domaincontactdetails']['Phone Number'] = "Telefone";
 $_LANG['domaincontactdetails']['Fax'] = "Fax";
 
-$_LANG['serverhostnameexample'] = "Ex. server1(.example.com)";
-$_LANG['serverns1prefixexample'] = "Ex. ns1(.example.com)";
-$_LANG['serverns2prefixexample'] = "Ex. ns2(.example.com)";
+$_LANG['serverhostnameexample'] = "Ex. server1(.exemplo.com)";
+$_LANG['serverns1prefixexample'] = "Ex. ns1(.exemplo.com)";
+$_LANG['serverns2prefixexample'] = "Ex. ns2(.exemplo.com)";
 
 $_LANG['hosting'] = "Hospedagem";
 
@@ -1631,7 +1631,7 @@ $_LANG['nodomainextensions'] = "Não existem extensões de domínio atualmente c
 
 $_LANG['homebegin'] = "Comece a busca por seu nome de domínio perfeito...";
 $_LANG['howcanwehelp'] = "Como podemos ajudar hoje?";
-$_LANG['exampledomain'] = "Ex. example.com";
+$_LANG['exampledomain'] = "Ex. exemplo.com";
 $_LANG['buyadomain'] = "Comprar domínio";
 $_LANG['orderhosting'] = "Hospedagem";
 $_LANG['makepayment'] = "Fazer pagamento";
@@ -1769,20 +1769,20 @@ $_LANG['clientHomePanels']['activeProductsServicesNone'] = "Parece que você nã
 $_LANG['clientHomePanels']['recentNews'] = "Últimas Notícias";
 $_LANG['clientHomePanels']['affiliateProgram'] = "Programa de Afiliados";
 $_LANG['clientHomePanels']['recentSupportTickets'] = "Tickets";
-$_LANG['clientHomePanels']['recentSupportTicketsNone'] = "Nenhum ticket recente.<br/><br/>Se você precisar de alguma ajuda, por favor clique em <a href=\"submitticket.php\">Abrir Ticket</a>.";
+$_LANG['clientHomePanels']['recentSupportTicketsNone'] = "Nenhum ticket recente.<br/><br/>Se você precisar de alguma ajuda, por favor clique em <b><a href=\"submitticket.php\">Abrir Novo Ticket</a></b>.";
 $_LANG['clientHomePanels']['affiliateSummary'] = "Seu saldo atual é de comissão :commissionBalance. Você só precisa de outro :amountUntilWithdrawalLevel antes de poder levantar os seus ganhos.";
 $_LANG['clientHomePanels']['affiliateSummaryWithdrawalReady'] = "Your current commission balance is :commissionBalance. You may withdraw your earnings now.";
 
 $_LANG['upgradeNotPossible'] = "Atualizando este produto não é possível. Se você acredita que você chegou a esta página por engano, por favor notifique o nosso departamento de suporte. Caso contrário, volte e verifique a sua selecção.";
 $_LANG['upgradeSameProductMustExtendCycle'] = "To upgrade your billing cycle, please choose a cycle that is greater than your current billing cycle.";
 
-$_LANG['hostingInfo'] = "Informação de hospedagem";
-$_LANG['additionalInfo'] = "Informações adicionais";
-$_LANG['resourceUsage'] = "Uso de recursos";
+$_LANG['hostingInfo'] = "Informação de Hospedagem";
+$_LANG['additionalInfo'] = "Informações Adicionais";
+$_LANG['resourceUsage'] = "Uso de Recursos";
 $_LANG['primaryIP'] = "IP Primario";
-$_LANG['assignedIPs'] = "IPs atribuídos";
-$_LANG['diskSpace'] = "Espaço em disco";
-$_LANG['bandwidth'] = "Tráfego de dados";
+$_LANG['assignedIPs'] = "IPs Atribuídos";
+$_LANG['diskSpace'] = "Espaço em Disco";
+$_LANG['bandwidth'] = "Tráfego de Dados";
 $_LANG['registered'] = "Registrado";
 $_LANG['upgrade'] = "Atualização";
 
@@ -1817,7 +1817,7 @@ $_LANG['domaincheckeradding'] = "Adicionando";
 $_LANG['domaincheckeradded'] = "Adicionado";
 $_LANG['domaincheckernomoresuggestions'] = "Isso é todos os resultados que temos! Se você ainda não encontrou o que você está procurando, por favor tente um termo de pesquisa diferente ou palavra-chave.";
 $_LANG['domaincheckerunabletooffertld'] = "Infelizmente nós somos incapazes de registrar este TLD neste momento";
-$_LANG['domaincheckerbulkplaceholder'] = "Digite até 20 nomes de domínio.\nCada nome deve estar em uma linha separada.\nExemplos:\nexample.com\nexample.net";
+$_LANG['domaincheckerbulkplaceholder'] = "Digite até 20 nomes de domínio.\nCada nome deve estar em uma linha separada.\nExemplos:\nexemplo.com\nexemplo.net";
 
 $_LANG['domainchecker']['suggestiontakentitle'] = "Domínio Indisponível";
 $_LANG['domainchecker']['suggestiontakenmsg'] = "Infelizmente, o domínio que você selecionou não está disponível. Isso às vezes pode ocorrer se o domínio foi registrado recentemente. Por favor, volte e escolha um outro domínio.";
@@ -1920,7 +1920,7 @@ $_LANG['shoppingCartProductPerYear'] = "<span>:price</span>/:countyr";
 $_LANG['orderForm']['findNewDomain'] = "Encontre o seu novo nome de domínio. Digite seu nome ou palavras-chave abaixo para verificar a disponibilidade.";
 $_LANG['orderForm']['transferExistingDomain'] = "Transferir seus nomes de domínio existentes para nós e salvar.";
 $_LANG['orderForm']['www'] = "www.";
-$_LANG['orderForm']['check'] = "Verifica";
+$_LANG['orderForm']['check'] = "Verificar";
 $_LANG['orderForm']['returnToClientArea'] = "Retornar a Área do Cliente";
 $_LANG['orderForm']['checkout'] = "Finalizar";
 $_LANG['orderForm']['alreadyRegistered'] = "Já registrado?";
@@ -1988,7 +1988,7 @@ $_LANG['orderForm']['whatIsIncluded'] = "O que está incluído?";
 $_LANG['orderForm']['errorNoProductGroup'] = "Não foi possível carregar quaisquer grupos de produtos.";
 $_LANG['orderForm']['errorNoProducts'] = "Grupo de produtos não contém quaisquer produtos visíveis";
 
-$_LANG['cloudSlider']['feature01Title'] = "Uptime máximo Servidor";
+$_LANG['cloudSlider']['feature01Title'] = "Uptime Máximo Servidor";
 $_LANG['cloudSlider']['feature01Description'] = "Uptime do servidor é fundamental para todas as empresas - consideram ser a batida do coração de hospedar o seu negócio. Os servidores de arquivos e bancos de dados, e-mail e servidores web são uma parte indispensável da maioria dos processos de negócios, e downtimes têm efeitos negativos directos na produtividade, vendas, empregado e satisfação do cliente. É por isso que assegurar a máxima disponibilidade do servidor é tão importante para nós - nós queremos ter certeza de seus processos de negócios estão funcionando saudável para que seus clientes estão satisfeitos.";
 $_LANG['cloudSlider']['feature01DescriptionTwo'] = "Ao confiar-nos com suas necessidades de negócios, nós prometemos-lhe um uptime de 99,9% em todos os serviços que prestamos, fora de qualquer manutenção padrão poderemos fornecer.";
 $_LANG['cloudSlider']['feature02Title'] = "Mundo Entrega de Dados Ampla";
@@ -1997,7 +1997,7 @@ $_LANG['cloudSlider']['feature02DescriptionTwo'] = "Nossa dedicação ao apoio a
 $_LANG['cloudSlider']['feature03Title'] = "Top Nível de Segurança";
 $_LANG['cloudSlider']['feature03Description'] = "Fique tranqüilo sabendo que nós fornecemos segurança 24/7 monitoramento e proteção DDoS. Você toma a proteção de dados de seus clientes a sério, e nós também. Nossa equipe de segurança e salvaguardas estão no trabalho o dia todo, todos os dias para fornecer o nível de segurança necessário na era digital de hoje.";
 $_LANG['cloudSlider']['feature03DescriptionTwo'] = "Uma vasta gama de ferramentas de segurança estão à sua disposição, incluindo os certificados SSL, configuração de firewall, serviços de monitoramento de segurança, acesso VPN, e muito mais.";
-$_LANG['cloudSlider']['selectProductLevel'] = "Select the Perfect Level for You!";
+$_LANG['cloudSlider']['selectProductLevel'] = "Selecione o Nível Perfeito para Você!";
 
 $_LANG['domainChecker.additionalPricingOptions'] = "Opções de preços complementar para :domain";
 
@@ -2010,7 +2010,7 @@ $_LANG['insufficientstockmessage'] = "Estamos atualmente em baixo estoque em det
 $_LANG['only'] = "Somente";
 $_LANG['startingat'] = "Começando às";
 
-$_LANG['yourdomainplaceholder'] = "example";
+$_LANG['yourdomainplaceholder'] = "exemplo";
 $_LANG['yourtldplaceholder'] = "com";
 
 $_LANG['subaccountpermsproductsso'] = "execute Individual Sign-On";
@@ -2049,7 +2049,7 @@ $_LANG['markdown']['genericListItem'] = "Generic list item";
 $_LANG['markdown']['numberedListItem'] = "Numbered list item";
 $_LANG['markdown']['links'] = "Links";
 $_LANG['markdown']['textToDisplay'] = "Text to display";
-$_LANG['markdown']['exampleLink'] = "http://www.example.com";
+$_LANG['markdown']['exampleLink'] = "http://www.exemplo.com";
 $_LANG['markdown']['quotes'] = "Quotes";
 $_LANG['markdown']['thisIsAQuote'] = "This is a quote.";
 $_LANG['markdown']['quoteMultipleLines'] = "It can span multiple lines!";
@@ -2913,9 +2913,9 @@ $_LANG['store']['ssl']['landingPage']['faq']['a1'] = "SSL Certificates enable da
 $_LANG['store']['ssl']['landingPage']['faq']['q2'] = "Why do I need an SSL Certificate?";
 $_LANG['store']['ssl']['landingPage']['faq']['a2'] = "SSL Certificates are an essential part of the internet. They not only encrypt communication between your computer and the server where a website is located, but they also provide verification that a site is what it claims to be.";
 $_LANG['store']['ssl']['landingPage']['faq']['q3'] = "What are the different types of SSL?";
-$_LANG['store']['ssl']['landingPage']['faq']['a3'] = "There are 3 different levels of vetting that SSL Certificates are based upon. Domain Validated (DV) , Organization Validated (OV), and Extended Validation (EV). The major difference between the types of certificate relates to the information the Certificate Authority, RapidSSL, GeoTrust and Symantec, requires and validates in order to issue a certificate. The higher levels of certificate require more information, and often is displayed in the browser bar. EV SSL for example turns the browser bar green and displays the organization name to visitors to generate more trust.";
+$_LANG['store']['ssl']['landingPage']['faq']['a3'] = "There are 3 different levels of vetting that SSL Certificates are based upon. Domain Validated (DV) , Organization Validated (OV), and Extended Validation (EV). The major difference between the types of certificate relates to the information the Certificate Authority, RapidSSL, GeoTrust and Symantec, requires and validates in order to issue a certificate. The higher levels of certificate require more information, and often is displayed in the browser bar. EV SSL for exemplo turns the browser bar green and displays the organization name to visitors to generate more trust.";
 $_LANG['store']['ssl']['landingPage']['faq']['q4'] = "What is a Wildcard SSL Certificate";
-$_LANG['store']['ssl']['landingPage']['faq']['a4'] = "A Wildcard SSL certificate provides the same encryption and authentication features as other SSL certificates but can also be applied to an unlimited number of subdomains of a website. A Wildcard SSL certificate supports the root domain (example.com) as well as its subdomains.";
+$_LANG['store']['ssl']['landingPage']['faq']['a4'] = "A Wildcard SSL certificate provides the same encryption and authentication features as other SSL certificates but can also be applied to an unlimited number of subdomains of a website. A Wildcard SSL certificate supports the root domain (exemplo.com) as well as its subdomains.";
 $_LANG['store']['ssl']['landingPage']['faq']['q5'] = "What are the advantages of an EV SSL Certificate?";
 $_LANG['store']['ssl']['landingPage']['faq']['a5'] = "EV, or Extended Validation, is the highest class of SSL available today and gives more credibility and trust to your website than other SSL Certificates. They include features such as the green address bar and display of your company name that have been proven to boost trust and consumer confidence.";
 $_LANG['store']['ssl']['landingPage']['faq']['q6'] = "What if I already have an SSL Certificate?";
