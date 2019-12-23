@@ -9,18 +9,20 @@ Tradução do WHMCS v7.X.X | Português - Brasil, baseada no arquivo Português 
 - [Agradecimentos](#agradecimentos)
 
 ### Instruções para Instalação
-1. Faça download da versão estavel [clicando aqui](https://github.com/paulocrash/Traducao-WHMCS-7.x-pt_BR/archive/master.zip);
-2. Faça download da versão em desenvolvimento [clicando aqui](https://github.com/paulocrash/Traducao-WHMCS-Portugues-BR/archive/dev.zip);
+1. Faça download da **versão estavel [clicando aqui](https://github.com/paulocrash/Traducao-WHMCS-7.x-pt_BR/archive/master.zip)**;
+2. Faça download da **versão em desenvolvimento [clicando aqui](https://github.com/paulocrash/Traducao-WHMCS-Portugues-BR/archive/dev.zip)**;
 3. Utilizando programa de FTP, envie as pasta `admin` e `lang` do WHMCS para seu diretorio de instalação; ***(Obs.: Substitua os arquivos atuais)***
 
-**Recomendamos o uso do [FileZilla] (https://filezilla-project.org/) para fazer upload de arquivos via FTP.**
+**Recomendamos o uso do [FileZilla](https://filezilla-project.org/) para fazer upload de arquivos via FTP.**
 
 **- Área do Cliente**
+
 4. Acesse sua Área de Admin no WHMCS;
 5. Utilize o menu de navegação para ir para ***“Opções -> Configurações Gerais -> Localização”***;
 6. No campo ***"Idioma Padrão, selecione '__Portuguese-br__' e clique em Salvar Alterações***";
 
 **- Área do Administrador**
+
 7. Utilize o menu de navegação vá para ***"Minha Conta"***;
 8. No campo ***"Idioma, selecione '__Portugues__', insira sua senha em '__Confirmar Senha__' e clique em Salvar Alterações"***;
 
