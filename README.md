@@ -2,28 +2,38 @@
 Tradução do WHMCS v7.X.X | Português - Brasil, baseada no arquivo Português Brasil original do WHMCS v7.
 
 ### Índice
-- [Instruções para a Instalação](#instruções-para-a-instalação)
+- [Instruções para Instalação](#instruções-para-instalação)
 - [Changelog](#changelog)
 - [Suporte](#suporte)
 - [Contribuição](#contribuição)
 - [Agradecimentos](#agradecimentos)
 
-### Instruções para a Instalação
-1. Faça download [clicando aqui](https://github.com/paulocrash/Traducao-WHMCS-7.x-pt_BR/archive/master.zip);
-2. Utilizando seu programa de FTP preferido, realize o upload da pasta WHMCS no seu diretorio de instalação; ***(Obs.: substitua os arquivos atuais)***
+### Instruções para Instalação
+1. Faça download da **versão estavel [clicando aqui](https://github.com/paulocrash/Traducao-WHMCS-7.x-pt_BR/archive/master.zip)**;
+2. Faça download da **versão em desenvolvimento [clicando aqui](https://github.com/paulocrash/Traducao-WHMCS-Portugues-BR/archive/dev.zip)**;
+3. Utilizando programa de FTP, envie as pasta `admin` e `lang` do WHMCS para seu diretorio de instalação; ***(Obs.: Substitua os arquivos atuais)***
 
-**- Para a Área do Cliente**
+**Recomendamos o uso do [FileZilla](https://filezilla-project.org/) para fazer upload de arquivos via FTP.**
 
-3. Acesse sua Àrea de Admin no WHMCS;
-4. Utilize o menu de navegação para ir para ***“Opções -> Configurações Gerais -> Localização”***;
-5. No campo ***"Idioma Padrão, selecione 'Portuguese-br' e clique em Salvar Alterações***";
+**- Área do Cliente**
 
-**- Para a Área do Administrador**
+4. Acesse sua Área de Admin no WHMCS;
+5. Utilize o menu de navegação para ir para ***“Opções -> Configurações Gerais -> Localização”***;
+6. No campo ***"Idioma Padrão, selecione '__Portuguese-br__' e clique em Salvar Alterações***";
 
-6. Utilize o menu de navegação vá para ***"Minha Conta"***;
-7. No campo ***"Idioma, selecione 'Portugues', insira sua senha em 'Confirmar Senha' e clique em Salvar Alterações"***;
+**- Área do Administrador**
+
+7. Utilize o menu de navegação vá para ***"Minha Conta"***;
+8. No campo ***"Idioma, selecione '__Portugues__', insira sua senha em '__Confirmar Senha__' e clique em Salvar Alterações"***;
 
 ### Changelog
+###### 27/12/2019
+- Atualizado o README;
+- Adicionado novas traduções em Área do Cliente & Área Admin;
+- Atualizado traduções em Área do Cliente & Área Admin;
+- Corrigidos erros de tradução em Área do Cliente & Área Admin;
+- Teste de compatibilidade efetuado na versão 7.8.3;
+
 ###### 20/12/2019
 - Atualizado para a versão 7.8.3;
 - Atualizado o README;
