@@ -27,7 +27,7 @@ Tradução do WHMCS v7.X.X | Português - Brasil, baseada no arquivo Português 
 8. No campo ***"Idioma, selecione '__Portugues__', insira sua senha em '__Confirmar Senha__' e clique em Salvar Alterações"***;
 
 ### Changelog
-###### XX/12/2019
+###### 27/12/2019
 - Atualizado o README;
 - Adicionado novas traduções em Área do Cliente & Área Admin;
 - Atualizado traduções em Área do Cliente & Área Admin;
