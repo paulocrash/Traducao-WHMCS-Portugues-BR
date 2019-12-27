@@ -28,7 +28,7 @@ Tradução do WHMCS v7.X.X | Português - Brasil, baseada no arquivo Português 
 
 ### Changelog
 ###### 27/12/2019
-- 
+- Corrigido o FUNDING;
 
 ###### 27/12/2019
 - Atualizado o README;
