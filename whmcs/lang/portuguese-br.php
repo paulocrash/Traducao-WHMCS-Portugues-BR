@@ -111,7 +111,7 @@ $_LANG['clickheretologin'] = "Clique aqui para efetuar o login";
 $_LANG['clientareaaccountaddons'] = "Adicionais da Conta";
 $_LANG['clientareaactive'] = "Ativo";
 $_LANG['clientareaaddfundsdisabled'] = "No momento não estamos permitindo a adição de fundos a sua conta.";
-$_LANG['clientareaaddfundsnotallowed'] = "<b>Você precisa ter ao menos um produto/serviço ativo antes de adicionar fundos.</b>";
+$_LANG['clientareaaddfundsnotallowed'] = "<b>Você precisa ter ao menos um produto/serviço ativo antes de adicionar fundos</b>";
 $_LANG['clientareaaddon'] = "Adicional";
 $_LANG['clientareaaddonorderconfirmation'] = "Obrigado. Sua solicitação para o adicional mostrado abaixo foi enviada. Por favor, escolha sua forma de pagamento.";
 $_LANG['clientareaaddonpricing'] = "Preços";
@@ -1297,7 +1297,7 @@ $_LANG['serverstatusheadingtext'] = "Abaixo está uma lista em tempo real do sta
 
 $_LANG['clientareacancelreasonrequired'] = "Você deve informar um motivo para o cancelamento";
 
-$_LANG['addfundsdescription'] = "Adicione fundos para sua conta para pagar novas faturas automaticamente.";
+$_LANG['addfundsdescription'] = "Adicione fundos para sua conta para pagar novas faturas automaticamente";
 $_LANG['addfundsnonrefundable'] = "<b>*Todos os depósitos não tem reembolso!</b>";
 
 $_LANG['creditcardexpirydateinvalid'] = "A data de expiração deve ser colocada no formado MM/AA e de uma data FUTURA";
@@ -1578,7 +1578,7 @@ $_LANG['homechooseproductservice'] = "Gerenciar produto/serviço:";
 
 $_LANG['invoicesdue'] = "Faturas";
 $_LANG['invoicesduemsg'] = "%s fatura(s) em aberto</br>Total: %s";
-$_LANG['noinvoicesduemsg'] = "Você não tem faturas em aberto.";
+$_LANG['noinvoicesduemsg'] = "Você não tem faturas em aberto";
 
 $_LANG['expiringsoon'] = "Expirando";
 
@@ -1617,7 +1617,7 @@ $_LANG['ticketfeedbackrequest'] = "Feedback solicitado";
 $_LANG['ticketfeedbackforticket'] = "para Ticket #";
 
 $_LANG['notifications'] = "Notificações";
-$_LANG['notificationsnone'] = "Você não tem notificações neste momento.";
+$_LANG['notificationsnone'] = "Você não tem notificações no momento";
 
 $_LANG['creditcardnonestored'] = "Nenhum cartão em arquivo";
 
@@ -1679,17 +1679,17 @@ $_LANG['clientareaemaildesc'] = "Seu histórico de e-mail";
 $_LANG['sslconfssl'] = "Configurar SSL";
 $_LANG['sslnoconfigurationpossible'] = "Configuração já foi concluída! Entre em contato com o suporte se você estiver enfrentando problemas.";
 
-$_LANG['adminloggedin'] = "Você está logado como administrador.";
-$_LANG['returntoadminarea'] = "Sair e voltar à área de administração";
-$_LANG['adminmasqueradingasclient'] = "Você está disfarçado como um cliente.";
-$_LANG['logoutandreturntoadminarea'] = "Sair e voltar à área de administração";
+$_LANG['adminloggedin'] = "Você está logado como Administrador.";
+$_LANG['returntoadminarea'] = "Sair e voltar à Área de Admin";
+$_LANG['adminmasqueradingasclient'] = "Você está disfarçado como um Cliente.";
+$_LANG['logoutandreturntoadminarea'] = "Sair e voltar à Área de Admin";
 
 $_LANG['supportAndUpdatesExpired'] = "Suporte e atualizações são expirado.";
 $_LANG['supportAndUpdatesExpiredLicense'] = "Seu suporte e atualizações para este período de licença expirou";
 $_LANG['supportAndUpdatesRenewalRequired'] = "Suporte e acesso Atualizações precisa ser renovado antes você pode acessar esta download.";
 $_LANG['supportAndUpdatesClickHereToRenew'] = "Clique aqui para renovar";
 
-$_LANG['pwresetemailneeded'] = "Esqueceu sua senha? Digite seu e-mail abaixo para iniciar o processo de reinicialização.";
+$_LANG['pwresetemailneeded'] = "Esqueceu sua senha? Digite seu e-mail abaixo para iniciar o processo de redefinição.";
 
 $_LANG['quotestageexpired'] = "Expirado";
 
@@ -1956,7 +1956,7 @@ $_LANG['orderForm']['addToCart'] = "Adicionar ao Carrinho";
 $_LANG['orderForm']['addedToCartRemove'] = "Adicionado ao carrinho ( Remover )";
 $_LANG['orderForm']['configureDesiredOptions'] = "Configure as opções desejadas e continuar a verificação geral.";
 $_LANG['orderForm']['haveQuestionsContact'] = "Tem dúvidas ? Entre em contato com nossa equipe de vendas para obter ajuda.";
-$_LANG['orderForm']['haveQuestionsClickHere'] = "Click here";
+$_LANG['orderForm']['haveQuestionsClickHere'] = "Clique aqui";
 $_LANG['orderForm']['use'] = "uso";
 $_LANG['orderForm']['check'] = "Verifica";
 $_LANG['orderForm']['transfer'] = "Transferir";
@@ -2095,9 +2095,9 @@ $_LANG['orderForm']['chooseFromRange'] = "Escolha entre uma variedade de pacotes
 $_LANG['orderForm']['packagesForBudget'] = "Temos pacotes projetados para atender todos os orçamentos";
 $_LANG['orderForm']['exploreNow'] = "Explore pacotes agora";
 $_LANG['orderForm']['transferToUs'] = "Transfira seu Domínio";
-$_LANG['orderForm']['transferExtend'] = "Transfira agora para estender seu domínio em 1 ano!";
+$_LANG['orderForm']['transferExtend'] = "<b>Transfira agora para estender seu domínio em 1 ano!</b>";
 $_LANG['orderForm']['transferDomain'] = "Transferir domínio";
-$_LANG['orderForm']['extendExclusions'] = "Exclui determinados TLDs e domínios recentemente renovados";
+$_LANG['orderForm']['extendExclusions'] = "<b>Exclui determinados TLDs e domínios recentemente renovados.</b>";
 $_LANG['orderForm']['singleTransfer'] = "Transferência de domínio único";
 $_LANG['orderForm']['enterDomain'] = "Digite seu domínio";
 $_LANG['orderForm']['authCode'] = "Código de Autorização";
@@ -2356,7 +2356,7 @@ $_LANG['domainRenewal']['graceRenewalPeriodDescription'] = "Domains enter the Gr
 $_LANG['domainRenewal']['hasExpired'] = "This domain has expired.";
 $_LANG['domainRenewal']['expiringIn'] = "Expiring in :days days";
 $_LANG['domainRenewal']['expiredDaysAgo'] = "Expired :days days ago";
-$_LANG['domainRenewal']['noDomains'] = "You do not currently have any domains that are eligible for renewal";
+$_LANG['domainRenewal']['noDomains'] = "No momento, você não possui domínios qualificados para renovação";
 $_LANG['domainRenewal']['showingDomains'] = "Showing :showing of :totalCount domains";
 $_LANG['domainRenewal']['showAll'] = "Show All";
 $_LANG['domainRenewal']['maximumAdvanceRenewal'] = "Maximum Advance Renewal is :days Day(s)";
