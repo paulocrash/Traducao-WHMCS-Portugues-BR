@@ -28,11 +28,12 @@ Tradução do WHMCS v7.X.X | Português - Brasil, baseada no arquivo Português 
 
 ### Changelog
 ###### XX/XX/XXXX
-- Adicionado traduções para Itemns a Fazer;
+- Adicionado traduções do Itens a Fazer;
+- Adicionado traduções do Caléndário na Área Admin;
+- Adicionado traduções do Painel de Administração na Área Admin;
 - Atualizado traduções de Sucesso na Área Admin;
 - Atualizado traduções do Grupo de Clientes na Área Admin;
 - Atualizado traduções das Cotações na Área Admin;
-- Atualizado traduções do Caléndário na Área Admin;
 - Atualizado traduções das Configurções Gerais na Área Admin;
 - Corrigido erros de tradução na Área Admin;
 
