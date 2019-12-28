@@ -33,6 +33,7 @@ Tradução do WHMCS v7.X.X | Português - Brasil, baseada no arquivo Português 
 - Atualizado traduções do Grupo de Clientes na Área Admin;
 - Atualizado traduções das Cotações na Área Admin;
 - Atualizado traduções do Caléndário na Área Admin;
+- Atualizado traduções das Configurções Gerais na Área Admin;
 - Corrigido erros de tradução na Área Admin;
 
 ###### 27/12/2019
