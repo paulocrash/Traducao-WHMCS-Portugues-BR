@@ -1605,7 +1605,7 @@ $_ADMINLANG['help']['setupWizard'] = "Assistente de Configuração";
 # Fields
 $_ADMINLANG['fields']['id'] = "ID";
 $_ADMINLANG['fields']['date'] = "Data";
-$_ADMINLANG['fields']['datetime'] = "Date/Time";
+$_ADMINLANG['fields']['datetime'] = "Data/Hora";
 $_ADMINLANG['fields']['paymentmethod'] = "Forma de Pagamento";
 $_ADMINLANG['fields']['result'] = "Resultado";
 $_ADMINLANG['fields']['clientname'] = "Nome do Cliente";
@@ -2742,15 +2742,15 @@ $_ADMINLANG['bans']['addbannedip'] = "Adicionar IP Banido";
 
 # Client Groups
 $_ADMINLANG['clientgroups']['title'] = "Grupos de Clientes";
-$_ADMINLANG['clientgroups']['addsuccess'] = "Grupo Adicionado com Sucesso!";
-$_ADMINLANG['clientgroups']['addsuccessinfo'] = "O Grupo de Cliente foi Adicionado com Sucesso";
-$_ADMINLANG['clientgroups']['editsuccess'] = "Grupo Atualizado com Sucesso!";
-$_ADMINLANG['clientgroups']['editsuccessinfo'] = "O Grupo de Cliente foi Atualizado com Sucesso";
-$_ADMINLANG['clientgroups']['delsuccess'] = "Grupo Apagado com Sucesso!";
-$_ADMINLANG['clientgroups']['delsuccessinfo'] = "O Grupo de Cliente foi Excluído";
-$_ADMINLANG['clientgroups']['delerrorinfo'] = "Você não pode apagar um Grupo de Cliente enquanto ele estiver em uso";
-$_ADMINLANG['clientgroups']['delsure'] = "Clique em OK se você tem certeza que quer apagar esse Grupo de Cliente";
-$_ADMINLANG['clientgroups']['info'] = "Grupos de Clientes podem ser usados para diferenciar entre seus clientes com mais facilidade e aplicar alterações a determinadas funções.";
+$_ADMINLANG['clientgroups']['addsuccess'] = "Grupo adicionado com sucesso!";
+$_ADMINLANG['clientgroups']['addsuccessinfo'] = "O grupo de cliente foi adicionado com sucesso";
+$_ADMINLANG['clientgroups']['editsuccess'] = "Grupo atualizado com sucesso!";
+$_ADMINLANG['clientgroups']['editsuccessinfo'] = "O grupo de cliente foi atualizado com Sucesso";
+$_ADMINLANG['clientgroups']['delsuccess'] = "Grupo apagado com sucesso!";
+$_ADMINLANG['clientgroups']['delsuccessinfo'] = "O grupo de cliente foi excluído";
+$_ADMINLANG['clientgroups']['delerrorinfo'] = "Você não pode apagar um grupo de cliente enquanto ele estiver em uso";
+$_ADMINLANG['clientgroups']['delsure'] = "Clique em OK se você tem certeza que quer apagar esse grupo de cliente";
+$_ADMINLANG['clientgroups']['info'] = "Grupos de clientes podem ser usados para diferenciar entre seus clientes com mais facilidade e aplicar alterações a determinadas funções.";
 $_ADMINLANG['clientgroups']['sample'] = "Exemplo";
 $_ADMINLANG['clientgroups']['groupname'] = "Nome do Grupo";
 $_ADMINLANG['clientgroups']['groupcolour'] = "Cor do Grupo";
@@ -2758,7 +2758,7 @@ $_ADMINLANG['clientgroups']['perdiscount'] = "% do Desconto";
 $_ADMINLANG['clientgroups']['susptermexempt'] = "Isento de Suspensão/Encerramento";
 $_ADMINLANG['clientgroups']['clientgroup'] = "Grupo do Cliente";
 $_ADMINLANG['clientgroups']['grpdispercent'] = "Desconto desse Grupo em %";
-$_ADMINLANG['clientgroups']['exemptsusterm'] = "Isento de Suspensão & Encerramento";
+$_ADMINLANG['clientgroups']['exemptsusterm'] = "Isento de Suspensão/Encerramento";
 
 # Custom Fields
 $_ADMINLANG['customfields']['clienttitle'] = "Campos Personalizados dos Clientes";
@@ -3491,7 +3491,7 @@ $_ADMINLANG['todolist']['additem'] = "Adicionar Item";
 $_ADMINLANG['todolist']['addtodoitem'] = "Adicionar Item a Fazer";
 $_ADMINLANG['todolist']['edittodoitem'] = "Editar Item a Fazer";
 $_ADMINLANG['todolist']['incomplete'] = "Incompleto";
-$_ADMINLANG['todolist']['assign'] = "Atribuir paraa Mim";
+$_ADMINLANG['todolist']['assign'] = "Atribuir para Mim";
 $_ADMINLANG['todolist']['setProgress'] = "Definir em Andamento";
 $_ADMINLANG['todolist']['setComplete'] = "Definir como Concluído";
 $_ADMINLANG['todolist']['setPostponed'] = "Definir como Adiado";
