@@ -641,11 +641,9 @@ $_ADMINLANG['domains']['autoreg'] = "Auto Registro";
 $_ADMINLANG['domains']['openpricing'] = "Abrir Preços";
 $_ADMINLANG['domains']['extensionalreadyexist'] = "A extensão %s já existe";
 $_ADMINLANG['domains']['addtld'] = "Adicionar TLD (ex. com)";
-
 $_ADMINLANG['domains']['duplicatetld'] = "Duplicar TLD";
 $_ADMINLANG['domains']['selecttldtoduplicate'] = "Selecione um TLD para duplicar";
 $_ADMINLANG['domains']['sourcenewtldempty'] = "TLD de Origem e o Novo TLD não podem estar vazios";
-
 $_ADMINLANG['domains']['slabsintro'] = "Os blocos de preços podem ser criados para oferecer aos grupos de clientes preços alternativos. Os blocos são vinculados a grupos de clientes, então você precisa definir preços para o bloco base padrão e, em seguida, opcionalmente para qualquer um dos grupos de clientes que deseja oferecer preços personalizados.";
 $_ADMINLANG['domains']['pricingslabfor'] = "Bloco de preços para";
 $_ADMINLANG['domains']['defaultpricingslab'] = "Bloco base padrão";
@@ -695,10 +693,8 @@ $_ADMINLANG['domains']['enableIdProtection'] = "Enable ID Protection";
 $_ADMINLANG['domains']['enableIdProtectionQuestion'] = "Enabling ID Protection may cause charges at the registrar.<br>Are you sure you wish to enable ID Protection?";
 $_ADMINLANG['domains']['disableIdProtection'] = "Disable ID Protection";
 $_ADMINLANG['domains']['disableIdProtectionQuestion'] = "Disabling ID Protection will make the registrant details public.<br>Are you sure you wish to disable ID Protection?";
-
 $_ADMINLANG['domains']['tldNotConfiguredForSale'] = "TLD/Extension not configured for sale.";
 $_ADMINLANG['domains']['orderContainsInvalidTlds'] = "This order contains one or more domain registrations with TLDs/extensions that are <strong>not configured for sale</strong> and have been omitted as a result.";
-
 $_ADMINLANG['domains']['bulkManagement'] = "Bulk Management";
 $_ADMINLANG['domains']['gracePeriod'] = "Grace Period";
 $_ADMINLANG['domains']['redemptionPeriod'] = "Redemption Period";
@@ -707,7 +703,6 @@ $_ADMINLANG['domains']['duration'] = "Duration";
 $_ADMINLANG['domains']['bulkYearsDescription'] = "Set 2-10 years based on 1 year price";
 $_ADMINLANG['domains']['massUpdateConfirm'] = "Are you sure you wish to update the selected extensions?";
 $_ADMINLANG['domains']['massUpdateError'] = "Please select TLDs and fill at least one field for mass actions.";
-
 $_ADMINLANG['domains']['importantReminder'] = "Important Reminder";
 $_ADMINLANG['domains']['irtpNotice'] = "The changes you have made will enable the IRTP Transfer Lock for this domain.";
 $_ADMINLANG['domains']['optOut'] = "Opt-out of Transfer Lock (if available)";
@@ -3496,13 +3491,13 @@ $_ADMINLANG['todolist']['additem'] = "Adicionar Item";
 $_ADMINLANG['todolist']['addtodoitem'] = "Adicionar Item a Fazer";
 $_ADMINLANG['todolist']['edittodoitem'] = "Editar Item a Fazer";
 $_ADMINLANG['todolist']['incomplete'] = "Incompleto";
-$_ADMINLANG['todolist']['assign'] = "Assign to Me";
-$_ADMINLANG['todolist']['setProgress'] = "Set In Progress";
-$_ADMINLANG['todolist']['setComplete'] = "Set as Completed";
-$_ADMINLANG['todolist']['setPostponed'] = "Set to Postponed";
-$_ADMINLANG['todolist']['inProgress'] = "In Progress";
-$_ADMINLANG['todolist']['completed'] = "Completed";
-$_ADMINLANG['todolist']['postponed'] = "Postponed";
+$_ADMINLANG['todolist']['assign'] = "Atribuir paraa Mim";
+$_ADMINLANG['todolist']['setProgress'] = "Definir em Andamento";
+$_ADMINLANG['todolist']['setComplete'] = "Definir como Concluído";
+$_ADMINLANG['todolist']['setPostponed'] = "Definir como Adiado";
+$_ADMINLANG['todolist']['inProgress'] = "Em Progresso";
+$_ADMINLANG['todolist']['completed'] = "Concluído";
+$_ADMINLANG['todolist']['postponed'] = "Adiado";
 
 # Resolver Check
 $_ADMINLANG['utilitiesresolvercheck']['domainresolverchecktitle'] = "Verificador dos Domínios";

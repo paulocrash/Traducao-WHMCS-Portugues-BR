@@ -28,6 +28,7 @@ Tradução do WHMCS v7.X.X | Português - Brasil, baseada no arquivo Português 
 
 ### Changelog
 ###### XX/XX/XXXX
+- Adicionado traduções para Itemns a Fazer;
 - Atualizado mensagens de sucesso na Área Admin;
 - Corrigido erros de tradução na Área Admin;
 
