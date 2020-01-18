@@ -27,7 +27,7 @@ Tradução do WHMCS v7.X.X | Português - Brasil, baseada no arquivo Português 
 8. No campo ***"Idioma, selecione `__Portugues__`, insira sua senha em '__Confirmar Senha__' e clique em Salvar Alterações"***;
 
 ### Changelog
-###### XX/XX/XXXX
+###### 17/01/2020
 - Adicionado traduções do Itens a Fazer;
 - Adicionado traduções do Caléndário na Área Admin;
 - Adicionado traduções do Painel de Administração na Área Admin;
@@ -36,12 +36,14 @@ Tradução do WHMCS v7.X.X | Português - Brasil, baseada no arquivo Português 
 - Atualizado traduções das Cotações na Área Admin;
 - Atualizado traduções das Configurções Gerais na Área Admin;
 - Corrigido erros de tradução na Área Admin;
+- Corrigido erros de tradução na Área do Cliente;
+- Teste de compatibilidade efetuado na versão 7.8.3;
 
 ###### 27/12/2019
 - Atualizado o README;
-- Adicionado novas traduções em Área do Cliente & Área Admin;
-- Atualizado traduções em Área do Cliente & Área Admin;
-- Corrigidos erros de tradução em Área do Cliente & Área Admin;
+- Adicionado novas traduções na Área do Cliente & Área Admin;
+- Atualizado traduções na Área do Cliente & Área Admin;
+- Corrigidos erros de tradução na Área do Cliente & Área Admin;
 - Teste de compatibilidade efetuado na versão 7.8.3;
 
 ###### 20/12/2019

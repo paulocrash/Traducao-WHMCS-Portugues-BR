@@ -3934,7 +3934,7 @@ $_ADMINLANG['fields']['proformaInvoiceNum'] = "Fatura Proforma #";
 $_ADMINLANG['general']['noActivityLogForClient'] = "Não é possível exibir a atividade para inscrições de ticket de convidado.";
 
 $_ADMINLANG['healthCheck']['title'] = "Status do Sistema";
-$_ADMINLANG['healthCheck']['exportAsJson'] = "Exportar Como Json";
+$_ADMINLANG['healthCheck']['exportAsJson'] = "Exportar Como JSON";
 $_ADMINLANG['healthCheck']['exportAsText'] = "Exportar Como Texto";
 $_ADMINLANG['healthCheck']['allChecksPassed'] = "Todas :count checagens do sistema passaram!";
 $_ADMINLANG['healthCheck']['checksPassed'] = ":count checagens concluídas";

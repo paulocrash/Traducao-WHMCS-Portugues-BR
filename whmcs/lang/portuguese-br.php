@@ -2196,11 +2196,11 @@ $_LANG['store']['emailServices']['tagline'] = "Take back control of your inbox";
 $_LANG['store']['emailServices']['blockSpamHeadline'] = "Block nearly 100% of viruses, malware and spam before they ever reach your inbox";
 
 $_LANG['pricingCycleShort']['monthly'] = "Mês";
-$_LANG['pricingCycleShort']['quarterly'] = "3Meses";
-$_LANG['pricingCycleShort']['semiannually'] = "6Meses";
+$_LANG['pricingCycleShort']['quarterly'] = "3 Meses";
+$_LANG['pricingCycleShort']['semiannually'] = "6 Meses";
 $_LANG['pricingCycleShort']['annually'] = "Ano";
-$_LANG['pricingCycleShort']['biennially'] = "2Anos";
-$_LANG['pricingCycleShort']['triennially'] = "3Anos";
+$_LANG['pricingCycleShort']['biennially'] = "2 Anos";
+$_LANG['pricingCycleShort']['triennially'] = "3 Anos";
 $_LANG['pricingCycleLong']['monthly'] = "1 Mês";
 $_LANG['pricingCycleLong']['quarterly'] = "3 Meses";
 $_LANG['pricingCycleLong']['semiannually'] = "6 Meses";
@@ -2210,7 +2210,7 @@ $_LANG['pricingCycleLong']['triennially'] = "3 Ano";
 
 $_LANG['navManageSsl'] = "Manage SSL Certificates";
 
-$_LANG['invoicesPaymentPending'] = "Payment Pending";
+$_LANG['invoicesPaymentPending'] = "Pagamento Pendente";
 
 $_LANG['ssl']['changeApproverEmail'] = "Change Approver Email";
 $_LANG['ssl']['reissueCertificate'] = "Reissue Certificate";
