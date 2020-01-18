@@ -13,7 +13,7 @@ Tradução do WHMCS v7.X.X | Português - Brasil, baseada no arquivo Português 
 2. Faça download da **versão em desenvolvimento [clicando aqui](https://github.com/paulocrash/Traducao-WHMCS-Portugues-BR/archive/dev.zip)**;
 3. Utilizando programa de FTP, envie as pasta `admin` e `lang` do WHMCS para seu diretorio de instalação; ***(Obs.: Substitua os arquivos atuais)***
 
-**Recomendamos o uso do [FileZilla](https://filezilla-project.org/) para fazer upload de arquivos via FTP.**
+**Recomendamos o uso do [FileZilla](https://filezilla-project.org/) para fazer upload dos arquivos via FTP.**
 
 **- Área do Cliente**
 
@@ -21,20 +21,29 @@ Tradução do WHMCS v7.X.X | Português - Brasil, baseada no arquivo Português 
 5. Utilize o menu de navegação para ir para ***“Opções -> Configurações Gerais -> Localização”***;
 6. No campo ***"Idioma Padrão, selecione `__Portuguese-br__` e clique em Salvar Alterações***";
 
-**- Área do Administrador**
+**- Área do Admin**
 
 7. Utilize o menu de navegação vá para ***"Minha Conta"***;
 8. No campo ***"Idioma, selecione `__Portugues__`, insira sua senha em '__Confirmar Senha__' e clique em Salvar Alterações"***;
 
 ### Changelog
-###### 27/12/2019
-- Corrigido o FUNDING;
+###### 17/01/2020
+- Adicionado traduções do Itens a Fazer;
+- Adicionado traduções do Caléndário na Área Admin;
+- Adicionado traduções do Painel de Administração na Área Admin;
+- Atualizado traduções de Sucesso na Área Admin;
+- Atualizado traduções do Grupo de Clientes na Área Admin;
+- Atualizado traduções das Cotações na Área Admin;
+- Atualizado traduções das Configurções Gerais na Área Admin;
+- Corrigido erros de tradução na Área Admin;
+- Corrigido erros de tradução na Área do Cliente;
+- Teste de compatibilidade efetuado na versão 7.8.3;
 
 ###### 27/12/2019
 - Atualizado o README;
-- Adicionado novas traduções em Área do Cliente & Área Admin;
-- Atualizado traduções em Área do Cliente & Área Admin;
-- Corrigidos erros de tradução em Área do Cliente & Área Admin;
+- Adicionado novas traduções na Área do Cliente & Área Admin;
+- Atualizado traduções na Área do Cliente & Área Admin;
+- Corrigidos erros de tradução na Área do Cliente & Área Admin;
 - Teste de compatibilidade efetuado na versão 7.8.3;
 
 ###### 20/12/2019

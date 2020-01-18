@@ -9,4 +9,4 @@ community_bridge: # Replace with a single Community Bridge project-name e.g., cl
 liberapay: # Replace with a single Liberapay username
 issuehunt: # Replace with a single IssueHunt username
 otechie: # Replace with a single Otechie username
-custom: ["https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YZGK9VJKDV936&source=url", "https://www.mercadopago.com/mlb/debits/new?preapproval_plan_id=bbbdba920b5442bf83169c08c5c41e9e", zkservidores.com]
+custom: ["https://zkservidores.com" "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5NM37YVW5MWPS&source=url"]

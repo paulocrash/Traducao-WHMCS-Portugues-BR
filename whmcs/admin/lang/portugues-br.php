@@ -15,8 +15,8 @@ $_ADMINLANG['global']['jumppage'] = "Saltar para a página";
 $_ADMINLANG['global']['go'] = "Ir";
 $_ADMINLANG['global']['any'] = "Todos";
 $_ADMINLANG['global']['withselected'] = "Com os Selecionados";
-$_ADMINLANG['global']['previouspage'] = "Página anterior";
-$_ADMINLANG['global']['nextpage'] = "Próxima página";
+$_ADMINLANG['global']['previouspage'] = "Página Anterior";
+$_ADMINLANG['global']['nextpage'] = "Próxima Página";
 $_ADMINLANG['global']['norecordsfound'] = "Nenhum resultado";
 $_ADMINLANG['global']['welcomeback'] = "Bem-vindo(a)";
 $_ADMINLANG['global']['clientarea'] = "Área do Cliente";
@@ -82,7 +82,7 @@ $_ADMINLANG['global']['numSearchResultsFound'] = ":number Search Results Found";
 $_ADMINLANG['global']['nomatchesfound'] = "Nenhum Item Encontrado";
 $_ADMINLANG['global']['unlimited'] = "Ilimitado";
 $_ADMINLANG['global']['hidden'] = "Oculto";
-$_ADMINLANG['global']['changesuccess'] = "Alterações Salvas com Sucesso!";
+$_ADMINLANG['global']['changesuccess'] = "Alterações salvas com sucesso!";
 $_ADMINLANG['global']['changesuccessdesc'] = "Suas alterações foram salvas.";
 $_ADMINLANG['global']['changesuccessadded'] = "Adicionado com sucesso";
 $_ADMINLANG['global']['changesuccesssorting'] = "Ordenação atualizada";
@@ -138,41 +138,41 @@ $_ADMINLANG['global']['description'] = "Descrição";
 $_ADMINLANG['global']['lastUpdated'] = "Última Atualização";
 $_ADMINLANG['global']['addAnother'] = "Adicionar Outro";
 $_ADMINLANG['global']['learnMore'] = "Aprender mais";
-$_ADMINLANG['global']['activate'] = "Activate";
-$_ADMINLANG['global']['deactivate'] = "Deactivate";
-$_ADMINLANG['global']['saveAndActivate'] = "Save &amp; Activate";
-$_ADMINLANG['global']['areYouSure'] = "Are you sure?";
+$_ADMINLANG['global']['activate'] = "Ativar";
+$_ADMINLANG['global']['deactivate'] = "Desativar";
+$_ADMINLANG['global']['saveAndActivate'] = "Salvar & Ativar";
+$_ADMINLANG['global']['areYouSure'] = "Você tem certeza?";
 $_ADMINLANG['global']['copy'] = "Copy";
-$_ADMINLANG['global']['pleaseCheckInput'] = "Please check your input before continuing.";
-$_ADMINLANG['global']['promotions'] = "Promotions";
-$_ADMINLANG['global']['uncheckAll'] = "Uncheck All";
+$_ADMINLANG['global']['pleaseCheckInput'] = "Por favor, verifique sua entrada antes de continuar.";
+$_ADMINLANG['global']['promotions'] = "Promoções";
+$_ADMINLANG['global']['uncheckAll'] = "Desmarcar Todos";
 $_ADMINLANG['global']['change'] = "Change";
-$_ADMINLANG['global']['seeConsoleLog'] = "Please see the browser console log for more information";
-$_ADMINLANG['global']['collapseAll'] = "Collapse All";
-$_ADMINLANG['global']['expandAll'] = "Expand All";
-$_ADMINLANG['global']['showing'] = "Showing :start to :end";
-$_ADMINLANG['global']['hideInactive'] = "Hide Inactive Clients";
+$_ADMINLANG['global']['seeConsoleLog'] = "Consulte o log do console do navegador para obter mais informações.";
+$_ADMINLANG['global']['collapseAll'] = "Recolher Todos";
+$_ADMINLANG['global']['expandAll'] = "Expandir Todos";
+$_ADMINLANG['global']['showing'] = "Mostrando :start para :end";
+$_ADMINLANG['global']['hideInactive'] = "Ocultar clientes inativos";
 $_ADMINLANG['global']['hiddenRecordsFound'] = "There are :numHidden Inactive results that are hidden due to the Hide Inactive filter being active. <a href=\"#\">Click here</a> to view them.";
-$_ADMINLANG['global']['noClientsExist'] = "No Clients Exist";
-$_ADMINLANG['global']['searchTerm'] = "Search Term: :searchTerm";
+$_ADMINLANG['global']['noClientsExist'] = "Não existem clientes";
+$_ADMINLANG['global']['searchTerm'] = "Termo de Pesquisa: :searchTerm";
 $_ADMINLANG['global']['manage'] = "Manage";
 $_ADMINLANG['global']['cancellationDate'] = "Cancellation By End";
 $_ADMINLANG['global']['dismiss'] = "Dismiss";
 $_ADMINLANG['global']['import'] = "Import";
 $_ADMINLANG['global']['custom'] = "Custom";
 $_ADMINLANG['global']['clear'] = "Clear";
-$_ADMINLANG['global']['aMonth'] = ":months Month";
-$_ADMINLANG['global']['someMonths'] = ":months Months";
-$_ADMINLANG['global']['new'] = "New";
+$_ADMINLANG['global']['aMonth'] = ":months Meses";
+$_ADMINLANG['global']['someMonths'] = ":months Meses";
+$_ADMINLANG['global']['new'] = "Novo";
 $_ADMINLANG['global']['stepOfStep'] = "Step <span class=\"step\">:step</span> of <span class=\"steps\">:steps</span>";
-$_ADMINLANG['global']['finish'] = "Finish";
-$_ADMINLANG['global']['required'] = "Required";
-$_ADMINLANG['global']['saved'] = "Saved!";
-$_ADMINLANG['global']['operationCompletedSuccessfully'] = "The operation completed successfully.";
+$_ADMINLANG['global']['finish'] = "Terminar";
+$_ADMINLANG['global']['required'] = "Requerido";
+$_ADMINLANG['global']['saved'] = "Salvou!";
+$_ADMINLANG['global']['operationCompletedSuccessfully'] = "A operação foi completa com sucesso.";
 $_ADMINLANG['global']['refresh'] = "Refresh";
-$_ADMINLANG['global']['notAvailable'] = "Not Available";
+$_ADMINLANG['global']['notAvailable'] = "Não disponível";
 $_ADMINLANG['global']['clipboardCopy'] = "Copy to clipboard";
-$_ADMINLANG['global']['typeToSearchContacts'] = "Start Typing to Search Contacts";
+$_ADMINLANG['global']['typeToSearchContacts'] = "Comece a digitar para pesquisar contatos";
 $_ADMINLANG['global']['gateway'] = "Gateway";
 
 # Home
@@ -224,7 +224,7 @@ $_ADMINLANG['stats']['overdueinvoices'] = "Faturas Vencidas";
 $_ADMINLANG['stats']['activetickets'] = "Tickets Ativos";
 $_ADMINLANG['stats']['activeflagged'] = "Meus Tickets Sinalizados";
 $_ADMINLANG['stats']['uninvoicedbillableitems'] = "Itens Faturáveis não Faturados";
-$_ADMINLANG['stats']['validquotes'] = "Orçamentos Válidos";
+$_ADMINLANG['stats']['validquotes'] = "Cotações Válidas";
 $_ADMINLANG['stats']['todaysorders'] = "Pedidos Hoje";
 $_ADMINLANG['stats']['todayspending'] = "Pendentes Hoje";
 $_ADMINLANG['stats']['todayscompleted'] = "Completados Hoje";
@@ -238,7 +238,7 @@ $_ADMINLANG['stats']['ticketsawaitingreply'] = "Tickets Aguardando Resposta";
 $_ADMINLANG['stats']['pendingcancellations'] = "Cancelamento(s) Pendente(s)";
 $_ADMINLANG['stats']['todoitemsdue'] = "Itens a Fazer";
 $_ADMINLANG['stats']['opennetworkissues'] = "Falhas no Servidor";
-$_ADMINLANG['stats']['acceptedquotes'] = "Orçamentos Aprovados";
+$_ADMINLANG['stats']['acceptedquotes'] = "Cotações Aprovadas";
 $_ADMINLANG['stats']['affiliatesignups'] = "Cadastros de Afiliados";
 
 # Clients
@@ -334,7 +334,7 @@ $_ADMINLANG['clientsummary']['products'] = "Produtos/Serviços";
 $_ADMINLANG['clientsummary']['domains'] = "Domínios";
 $_ADMINLANG['clientsummary']['billableitems'] = "Itens Faturáveis";
 $_ADMINLANG['clientsummary']['invoices'] = "Faturas";
-$_ADMINLANG['clientsummary']['quotes'] = "Orçamentos";
+$_ADMINLANG['clientsummary']['quotes'] = "Cotações";
 $_ADMINLANG['clientsummary']['transactions'] = "Transações";
 $_ADMINLANG['clientsummary']['emails'] = "E-mails";
 $_ADMINLANG['clientsummary']['notes'] = "Notas";
@@ -376,7 +376,7 @@ $_ADMINLANG['clientsummary']['close'] = "Fechar";
 $_ADMINLANG['clientsummary']['closeclient'] = "Fechar Conta do Cliente";
 $_ADMINLANG['clientsummary']['deleteclient'] = "Apagar Conta do Cliente";
 $_ADMINLANG['clientsummary']['export'] = "Export Client Data";
-$_ADMINLANG['clientsummary']['currentquotes'] = "Orçamentos Atuais";
+$_ADMINLANG['clientsummary']['currentquotes'] = "Cotações Atuais";
 $_ADMINLANG['clientsummary']['massupdateitems'] = "Atualização de Itens em Massa";
 $_ADMINLANG['clientsummary']['createproratainvoice'] = "Criar Fatura Prorata";
 $_ADMINLANG['clientsummary']['invoiceselected'] = "Faturar Itens Selecionados";
@@ -513,7 +513,7 @@ $_ADMINLANG['addons']['nodomain'] = "Nenhum Domínio";
 $_ADMINLANG['addons']['productaddons'] = "Addons do Produto";
 $_ADMINLANG['addons']['addondeletesuccess'] = "Addon Apagado com Sucesso!";
 $_ADMINLANG['addons']['addondelsuccessinfo'] = "O addon selecionado foi agora excluído.";
-$_ADMINLANG['addons']['changesuccess'] = "Alterações Salvas com Sucesso!";
+$_ADMINLANG['addons']['changesuccess'] = "Alterações salvas com sucesso!";
 $_ADMINLANG['addons']['changesuccessinfo'] = "As alterações feitas a esse addon foram salvas";
 $_ADMINLANG['addons']['addonaddsuccess'] = "Addon Adicionado com Sucesso!";
 $_ADMINLANG['addons']['addonaddsuccessinfo'] = "Seu novo addon foi adicionado com sucesso";
@@ -546,7 +546,6 @@ $_ADMINLANG['addons']['areYouSureDelete'] = "Are you sure you want to delete thi
 $_ADMINLANG['addons']['hiddenDescription'] = "Enable to hide this addon from the client area order forms";
 $_ADMINLANG['addons']['retired'] = "Retired";
 $_ADMINLANG['addons']['retiredDescription'] = "A retired addon will no longer appear within the admin area (note you will still be able to view and manage existing purchases)";
-
 
 # Domains
 $_ADMINLANG['domains']['title'] = "Domínios";
@@ -642,11 +641,9 @@ $_ADMINLANG['domains']['autoreg'] = "Auto Registro";
 $_ADMINLANG['domains']['openpricing'] = "Abrir Preços";
 $_ADMINLANG['domains']['extensionalreadyexist'] = "A extensão %s já existe";
 $_ADMINLANG['domains']['addtld'] = "Adicionar TLD (ex. com)";
-
 $_ADMINLANG['domains']['duplicatetld'] = "Duplicar TLD";
 $_ADMINLANG['domains']['selecttldtoduplicate'] = "Selecione um TLD para duplicar";
 $_ADMINLANG['domains']['sourcenewtldempty'] = "TLD de Origem e o Novo TLD não podem estar vazios";
-
 $_ADMINLANG['domains']['slabsintro'] = "Os blocos de preços podem ser criados para oferecer aos grupos de clientes preços alternativos. Os blocos são vinculados a grupos de clientes, então você precisa definir preços para o bloco base padrão e, em seguida, opcionalmente para qualquer um dos grupos de clientes que deseja oferecer preços personalizados.";
 $_ADMINLANG['domains']['pricingslabfor'] = "Bloco de preços para";
 $_ADMINLANG['domains']['defaultpricingslab'] = "Bloco base padrão";
@@ -696,10 +693,8 @@ $_ADMINLANG['domains']['enableIdProtection'] = "Enable ID Protection";
 $_ADMINLANG['domains']['enableIdProtectionQuestion'] = "Enabling ID Protection may cause charges at the registrar.<br>Are you sure you wish to enable ID Protection?";
 $_ADMINLANG['domains']['disableIdProtection'] = "Disable ID Protection";
 $_ADMINLANG['domains']['disableIdProtectionQuestion'] = "Disabling ID Protection will make the registrant details public.<br>Are you sure you wish to disable ID Protection?";
-
 $_ADMINLANG['domains']['tldNotConfiguredForSale'] = "TLD/Extension not configured for sale.";
 $_ADMINLANG['domains']['orderContainsInvalidTlds'] = "This order contains one or more domain registrations with TLDs/extensions that are <strong>not configured for sale</strong> and have been omitted as a result.";
-
 $_ADMINLANG['domains']['bulkManagement'] = "Bulk Management";
 $_ADMINLANG['domains']['gracePeriod'] = "Grace Period";
 $_ADMINLANG['domains']['redemptionPeriod'] = "Redemption Period";
@@ -708,7 +703,6 @@ $_ADMINLANG['domains']['duration'] = "Duration";
 $_ADMINLANG['domains']['bulkYearsDescription'] = "Set 2-10 years based on 1 year price";
 $_ADMINLANG['domains']['massUpdateConfirm'] = "Are you sure you wish to update the selected extensions?";
 $_ADMINLANG['domains']['massUpdateError'] = "Please select TLDs and fill at least one field for mass actions.";
-
 $_ADMINLANG['domains']['importantReminder'] = "Important Reminder";
 $_ADMINLANG['domains']['irtpNotice'] = "The changes you have made will enable the IRTP Transfer Lock for this domain.";
 $_ADMINLANG['domains']['optOut'] = "Opt-out of Transfer Lock (if available)";
@@ -839,7 +833,6 @@ $_ADMINLANG['orders']['fraudCheckSkippedTitle'] = "Fraud Check Skipped";
 $_ADMINLANG['orders']['fraudCheckSkippedDescription'] = "A fraud check was not performed for this order because the customer has previous orders that had already been activated.";
 $_ADMINLANG['orders']['noFraudCheckAsCredit'] = "A fraud check was not performed for this order because the order was paid using credit and no payment was due.";
 
-
 # Billing Cycles
 $_ADMINLANG['billingcycles']['free'] = "Gratuito";
 $_ADMINLANG['billingcycles']['onetime'] = "Uma Vez";
@@ -856,8 +849,8 @@ $_ADMINLANG['billing']['transactionslist'] = "Lista de Transações";
 $_ADMINLANG['billing']['income'] = "Rendimento";
 $_ADMINLANG['billing']['incomeprojection'] = "Projeção de Faturamento";
 $_ADMINLANG['billing']['incometoday'] = "Hoje";
-$_ADMINLANG['billing']['incomethismonth'] = "Last 30 Days";
-$_ADMINLANG['billing']['incomethisyear'] = "Last 1 Year";
+$_ADMINLANG['billing']['incomethismonth'] = "Últimos 30 Dias";
+$_ADMINLANG['billing']['incomethisyear'] = "Últimos 1 Ano";
 $_ADMINLANG['billing']['annualestimate'] = "Est. Anual";
 $_ADMINLANG['billing']['offlinecc'] = "Process. Offline de CC";
 $_ADMINLANG['billing']['gatewaylog'] = "Log dos Portais";
@@ -1029,11 +1022,11 @@ $_ADMINLANG['billableitems']['invoiceimmediately'] = "Faturar Imediatamente";
 $_ADMINLANG['billableitems']['noclientsmsg'] = "Você deve <a href=\"clientsadd.php\">criar um cliente</a> antes de adicionar um item faturável";
 
 # Quotes
-$_ADMINLANG['quotes']['title'] = "Orçamentos";
-$_ADMINLANG['quotes']['listall'] = "Listar Orçamentos";
-$_ADMINLANG['quotes']['createnew'] = "Criar Novo Orçamento";
-$_ADMINLANG['quotes']['deletesure'] = "Tem certeza de que quer apagar esse orçamento?";
-$_ADMINLANG['quotes']['quotenum'] = "Nº do Orçamento";
+$_ADMINLANG['quotes']['title'] = "Cotações";
+$_ADMINLANG['quotes']['listall'] = "Listar Cotações";
+$_ADMINLANG['quotes']['createnew'] = "Criar Nova Cotação";
+$_ADMINLANG['quotes']['deletesure'] = "Tem certeza de que quer apagar essa cotação?";
+$_ADMINLANG['quotes']['quotenum'] = "Nº da Cotação";
 $_ADMINLANG['quotes']['subject'] = "Assunto";
 $_ADMINLANG['quotes']['createdate'] = "Data da Criação";
 $_ADMINLANG['quotes']['datecreated'] = "Data de Criação";
@@ -1050,14 +1043,14 @@ $_ADMINLANG['quotes']['stagedead'] = "Morto";
 $_ADMINLANG['quotes']['validityperiod'] = "Período de Validade";
 $_ADMINLANG['quotes']['emailexists'] = "Endereço de E-mail em Uso";
 $_ADMINLANG['quotes']['emailexistsmsg'] = "O endereço de e-mail que você inseriu já está sendo usado por outro cliente, portanto, você deve alterá-lo para um alternativo";
-$_ADMINLANG['quotes']['quoteduplicated'] = "Orçamento Duplicado";
-$_ADMINLANG['quotes']['quoteduplicatedmsg'] = "O orçamento foi duplicado com sucesso - novo orçamento #";
-$_ADMINLANG['quotes']['quotedelivered'] = "Orçamento Entregue";
-$_ADMINLANG['quotes']['quotedeliveredmsg'] = "O orçamento foi enviado com sucesso para o cliente via e-mail";
+$_ADMINLANG['quotes']['quoteduplicated'] = "Cotação Duplicada";
+$_ADMINLANG['quotes']['quoteduplicatedmsg'] = "A cotação foi duplicada com sucesso - nova cotação #";
+$_ADMINLANG['quotes']['quotedelivered'] = "Cotação Entregue";
+$_ADMINLANG['quotes']['quotedeliveredmsg'] = "A cotação foi enviado com sucesso para o cliente via e-mail";
 $_ADMINLANG['quotes']['generalinfo'] = "Informação Geral";
 $_ADMINLANG['quotes']['clientinfo'] = "Informação do Cliente";
-$_ADMINLANG['quotes']['quoteexistingclient'] = "Orçamento para cliente existente";
-$_ADMINLANG['quotes']['quotenewclient'] = "Orçamento para novo cliente";
+$_ADMINLANG['quotes']['quoteexistingclient'] = "Cotação para cliente existente";
+$_ADMINLANG['quotes']['quotenewclient'] = "Cotação para novo cliente";
 $_ADMINLANG['quotes']['lineitems'] = "Itens";
 $_ADMINLANG['quotes']['qty'] = "Qtde";
 $_ADMINLANG['quotes']['description'] = "Descrição";
@@ -1069,9 +1062,9 @@ $_ADMINLANG['quotes']['subtotal'] = "Sub Total";
 $_ADMINLANG['quotes']['totaldue'] = "Total Devido";
 $_ADMINLANG['quotes']['notes'] = "Notas";
 $_ADMINLANG['quotes']['proposaltext'] = "Texto da Proposta";
-$_ADMINLANG['quotes']['proposaltextmsg'] = "(Mostrado na parte superior do orçamento)";
+$_ADMINLANG['quotes']['proposaltextmsg'] = "(Mostrado na parte superior da cotação)";
 $_ADMINLANG['quotes']['customernotes'] = "Notas do Cliente";
-$_ADMINLANG['quotes']['customernotesmsg'] = "(Mostrado no rodapé do orçamento)";
+$_ADMINLANG['quotes']['customernotesmsg'] = "(Mostrado no rodapé da cotação)";
 $_ADMINLANG['quotes']['adminonlynotes'] = "Notas do Administrador";
 $_ADMINLANG['quotes']['adminonlynotesmsg'] = "(Notas Privadas)";
 $_ADMINLANG['quotes']['viewPdf'] = "View PDF";
@@ -1612,7 +1605,7 @@ $_ADMINLANG['help']['setupWizard'] = "Assistente de Configuração";
 # Fields
 $_ADMINLANG['fields']['id'] = "ID";
 $_ADMINLANG['fields']['date'] = "Data";
-$_ADMINLANG['fields']['datetime'] = "Date/Time";
+$_ADMINLANG['fields']['datetime'] = "Data/Hora";
 $_ADMINLANG['fields']['paymentmethod'] = "Forma de Pagamento";
 $_ADMINLANG['fields']['result'] = "Resultado";
 $_ADMINLANG['fields']['clientname'] = "Nome do Cliente";
@@ -1783,7 +1776,7 @@ $_ADMINLANG['contactpermissions']['permtickets'] = "Ver & Abrir Tickets de Supor
 $_ADMINLANG['contactpermissions']['permaffiliates'] = "Ver & Gerenciar Contas Afiliadas";
 $_ADMINLANG['contactpermissions']['permemails'] = "Ver Emails";
 $_ADMINLANG['contactpermissions']['permorders'] = "Novos Pedidos/Upgrades/Cancelamentos";
-$_ADMINLANG['contactpermissions']['permquotes'] = "Ver & Aceitar Orçamentos";
+$_ADMINLANG['contactpermissions']['permquotes'] = "Ver & Aceitar Cotações";
 $_ADMINLANG['contactpermissions']['permproductsso'] = "Permitir Login Único";
 
 # Statuses
@@ -1892,7 +1885,7 @@ $_ADMINLANG['permissions']['89'] = "Ver Itens Faturáveis";
 $_ADMINLANG['permissions']['90'] = "Gerenciar Itens Faturáveis";
 $_ADMINLANG['permissions']['37'] = "Processar Cartões de Crédito Offline";
 $_ADMINLANG['permissions']['32'] = "Ver Log de Pagamentos";
-$_ADMINLANG['permissions']['85'] = "Gerenciar Orçamentos";
+$_ADMINLANG['permissions']['85'] = "Gerenciar Cotações";
 $_ADMINLANG['permissions']['38'] = "Resumo da Central de Suporte";
 $_ADMINLANG['permissions']['39'] = "Gerenciar Anúncios";
 $_ADMINLANG['permissions']['40'] = "Gerenciar Base de Conhecimento";
@@ -1996,7 +1989,7 @@ $_ADMINLANG['addonmodules']['legacy'] = "Módulo Herdado";
 $_ADMINLANG['addonmodules']['moduleactivated'] = "Módulo Addon Ativado";
 $_ADMINLANG['addonmodules']['moduledeactivated'] = "Módulo Addon Desativado";
 $_ADMINLANG['addonmodules']['deactivatesure'] = "Tem certeza que quer desativar esse módulo?";
-$_ADMINLANG['addonmodules']['changesuccess'] = "Alterações Salvas com Sucesso!";
+$_ADMINLANG['addonmodules']['changesuccess'] = "Alterações salvas com sucesso!";
 $_ADMINLANG['addonmodules']['changesuccessinfo'] = "As alterações que você realizou foram salvas com sucesso";
 $_ADMINLANG['addonmodules']['description'] = "Aqui você pode ativar e gerenciar módulos addon na sua instalação do WHMCS. Os módulos herdados mais antigos ainda permitirão que você ative/desative e configure direitos de acesso, mas não serão capazes de exibir nenhuma opção de configuração, versão ou informações de autoria.";
 $_ADMINLANG['addonmodules']['module'] = "Módulo";
@@ -2045,18 +2038,18 @@ $_ADMINLANG['calendar']['starexplanation'] = "Se há um * próximo a um evento s
 $_ADMINLANG['calendar']['doubleclick'] = "Para incluir um novo evento no calendário, dê dois cliques na célula na qual você quer adicionar o evento.";
 $_ADMINLANG['calendar']['selectmonth'] = "Selecionar um Mês para ver";
 $_ADMINLANG['calendar']['today'] = "Hoje";
-$_ADMINLANG['calendar']['yest'] = "Yesterday";
+$_ADMINLANG['calendar']['yest'] = "Ontem";
 $_ADMINLANG['calendar']['month'] = "Mês";
 $_ADMINLANG['calendar']['week'] = "Semana";
 $_ADMINLANG['calendar']['day'] = "Dia";
-$_ADMINLANG['calendar']['thisWeek'] = "This Week";
-$_ADMINLANG['calendar']['thisMonth'] = "This Month";
-$_ADMINLANG['calendar']['lastMonth'] = "Last Month";
+$_ADMINLANG['calendar']['thisWeek'] = "Esta Semana";
+$_ADMINLANG['calendar']['thisMonth'] = "Este Mês";
+$_ADMINLANG['calendar']['lastMonth'] = "Mês Passado";
 $_ADMINLANG['calendar']['showHide'] = "Mostrar/Esconder";
 $_ADMINLANG['calendar']['description'] = "Descrição";
 $_ADMINLANG['calendar']['startDateTime'] = "Data/Hora Inicial";
 $_ADMINLANG['calendar']['endDateTime'] = "Data/Hora Final";
-$_ADMINLANG['calendar']['allDay'] = "Doa Todo";
+$_ADMINLANG['calendar']['allDay'] = "Dia Todo";
 $_ADMINLANG['calendar']['recurEvery'] = "Repetir a Cada";
 $_ADMINLANG['calendar']['days'] = "Dias";
 $_ADMINLANG['calendar']['weeks'] = "Semanas";
@@ -2065,17 +2058,17 @@ $_ADMINLANG['calendar']['years'] = "Anos";
 $_ADMINLANG['calendar']['times'] = "vezes";
 $_ADMINLANG['calendar']['zeroUnlimited'] = "0 = ilimitado";
 $_ADMINLANG['calendar']['deleteRecurringEvent'] = "Excluir Evento Recorrente";
-$_ADMINLANG['calendar']['lastDays'] = "Last :days Days";
-$_ADMINLANG['calendar']['nextDays'] = "Next :days Days";
-$_ADMINLANG['calendar']['daysAgo'] = ":days Days Ago";
-$_ADMINLANG['calendar']['inDays'] = "In :days Days";
-$_ADMINLANG['calendar']['thisYear'] = "This Year";
-$_ADMINLANG['calendar']['lastYear'] = "Last Year";
-$_ADMINLANG['calendar']['oneYearAgo'] = "One Year Ago";
-$_ADMINLANG['calendar']['nextYear'] = "Next Year";
-$_ADMINLANG['calendar']['tomorrow'] = "Tomorrow";
-$_ADMINLANG['calendar']['nextMonth'] = "Next Month";
-$_ADMINLANG['calendar']['oneMonthAgo'] = "One Month Ago";
+$_ADMINLANG['calendar']['lastDays'] = "Últimos :days Dias";
+$_ADMINLANG['calendar']['nextDays'] = "Próximos :days Dias";
+$_ADMINLANG['calendar']['daysAgo'] = ":days Dias Atrás";
+$_ADMINLANG['calendar']['inDays'] = "Em :days Dias";
+$_ADMINLANG['calendar']['thisYear'] = "Este Ano";
+$_ADMINLANG['calendar']['lastYear'] = "Ano Passado";
+$_ADMINLANG['calendar']['oneYearAgo'] = "Um Ano Atrás";
+$_ADMINLANG['calendar']['nextYear'] = "Próximo Ano";
+$_ADMINLANG['calendar']['tomorrow'] = "Amanhã";
+$_ADMINLANG['calendar']['nextMonth'] = "Próximo Mês";
+$_ADMINLANG['calendar']['oneMonthAgo'] = "Um Mês Atrás";
 
 # Promotions
 $_ADMINLANG['promotions']['noaffect'] = "Essa modificação não irá alterar o preço";
@@ -2419,7 +2412,7 @@ $_ADMINLANG['administrators']['emailCannotBeSupport'] = "E-mail address is alrea
 
 # Automation
 $_ADMINLANG['automation']['title'] = "Configurar Automação";
-$_ADMINLANG['automation']['changesuccess'] = "Alterações Salvas com Sucesso!";
+$_ADMINLANG['automation']['changesuccess'] = "Alterações salvas com sucesso!";
 $_ADMINLANG['automation']['changesuccessinfo'] = "As alterações que você realizou nas configurações de automação foram salvas.";
 $_ADMINLANG['automation']['croninfo'] = "Para habilitar a execução dos recursos de automação, certifique-se de configurar uma tarefa cron para rodar ao menos uma vez por dia, no horário que você deseja que as faturas sejam enviadas e as contas suspensas (ex. 9am).";
 $_ADMINLANG['automation']['cronphp'] = "Crie a seguinte Tarefa Agendada (Cron) usando PHP";
@@ -2548,7 +2541,7 @@ $_ADMINLANG['gateways']['noConfigFound'] = "<strong>Gateway Module Error:</stron
 
 # Backups
 $_ADMINLANG['backups']['title'] = "Backups do Banco de Dados";
-$_ADMINLANG['backups']['changesuccess'] = "Alterações Salvas com Sucesso!";
+$_ADMINLANG['backups']['changesuccess'] = "Alterações salvas com sucesso!";
 $_ADMINLANG['backups']['changesuccessinfo'] = "As alterações nas configurações de backup foram salvas com sucesso.";
 $_ADMINLANG['backups']['description'] = "O banco de dados é onde todos os dados do seu WHMCS estão guardados e por isso é muito importante. É recomendado que você faça backups regulares dele. Existem dois recursos prontos para realizar a cópia de segurança do banco de dados usando as tarefas CRON diárias - um é por e-mail e o outro é um backup em FTP para um servidor remoto. Eles podem ser configurados abaixo.";
 $_ADMINLANG['backups']['dailyemail'] = "Backups Diários por E-mail";
@@ -2749,15 +2742,15 @@ $_ADMINLANG['bans']['addbannedip'] = "Adicionar IP Banido";
 
 # Client Groups
 $_ADMINLANG['clientgroups']['title'] = "Grupos de Clientes";
-$_ADMINLANG['clientgroups']['addsuccess'] = "Grupo Adicionado com Sucesso!";
-$_ADMINLANG['clientgroups']['addsuccessinfo'] = "O Grupo de Cliente foi Adicionado com Sucesso";
-$_ADMINLANG['clientgroups']['editsuccess'] = "Grupo Atualizado com Sucesso!";
-$_ADMINLANG['clientgroups']['editsuccessinfo'] = "O Grupo de Cliente foi Atualizado com Sucesso";
-$_ADMINLANG['clientgroups']['delsuccess'] = "Grupo Apagado com Sucesso!";
-$_ADMINLANG['clientgroups']['delsuccessinfo'] = "O Grupo de Cliente foi Excluído";
-$_ADMINLANG['clientgroups']['delerrorinfo'] = "Você não pode apagar um Grupo de Cliente enquanto ele estiver em uso";
-$_ADMINLANG['clientgroups']['delsure'] = "Clique em OK se você tem certeza que quer apagar esse Grupo de Cliente";
-$_ADMINLANG['clientgroups']['info'] = "Grupos de Clientes podem ser usados para diferenciar entre seus clientes com mais facilidade e aplicar alterações a determinadas funções.";
+$_ADMINLANG['clientgroups']['addsuccess'] = "Grupo adicionado com sucesso!";
+$_ADMINLANG['clientgroups']['addsuccessinfo'] = "O grupo de cliente foi adicionado com sucesso";
+$_ADMINLANG['clientgroups']['editsuccess'] = "Grupo atualizado com sucesso!";
+$_ADMINLANG['clientgroups']['editsuccessinfo'] = "O grupo de cliente foi atualizado com Sucesso";
+$_ADMINLANG['clientgroups']['delsuccess'] = "Grupo apagado com sucesso!";
+$_ADMINLANG['clientgroups']['delsuccessinfo'] = "O grupo de cliente foi excluído";
+$_ADMINLANG['clientgroups']['delerrorinfo'] = "Você não pode apagar um grupo de cliente enquanto ele estiver em uso";
+$_ADMINLANG['clientgroups']['delsure'] = "Clique em OK se você tem certeza que quer apagar esse grupo de cliente";
+$_ADMINLANG['clientgroups']['info'] = "Grupos de clientes podem ser usados para diferenciar entre seus clientes com mais facilidade e aplicar alterações a determinadas funções.";
 $_ADMINLANG['clientgroups']['sample'] = "Exemplo";
 $_ADMINLANG['clientgroups']['groupname'] = "Nome do Grupo";
 $_ADMINLANG['clientgroups']['groupcolour'] = "Cor do Grupo";
@@ -2765,7 +2758,7 @@ $_ADMINLANG['clientgroups']['perdiscount'] = "% do Desconto";
 $_ADMINLANG['clientgroups']['susptermexempt'] = "Isento de Suspensão/Encerramento";
 $_ADMINLANG['clientgroups']['clientgroup'] = "Grupo do Cliente";
 $_ADMINLANG['clientgroups']['grpdispercent'] = "Desconto desse Grupo em %";
-$_ADMINLANG['clientgroups']['exemptsusterm'] = "Isento de Suspensão & Encerramento";
+$_ADMINLANG['clientgroups']['exemptsusterm'] = "Isento de Suspensão/Encerramento";
 
 # Custom Fields
 $_ADMINLANG['customfields']['clienttitle'] = "Campos Personalizados dos Clientes";
@@ -2947,11 +2940,11 @@ $_ADMINLANG['fraud']['title'] = "Proteção Anti Fraude";
 $_ADMINLANG['fraud']['changesuccessinfo'] = "As alterações nas configurações do módulo de proteção anti fraude foram salvas.";
 $_ADMINLANG['fraud']['info'] = "Aqui é onde você configura o módulo de proteção anti fraude que você quer utilizar. Você só pode ter um módulo anti fraude habilitado por vez.";
 $_ADMINLANG['fraud']['choose'] = "Escolher Módulo Anti Fraude";
-$_ADMINLANG['fraud']['changesuccess'] = "Alterações Salvas com Sucesso!";
+$_ADMINLANG['fraud']['changesuccess'] = "Alterações salvas com sucesso!";
 
 # Config General
 $_ADMINLANG['general']['title'] = "Configurações Gerais";
-$_ADMINLANG['general']['changesuccess'] = "Alterações Salvas com Sucesso!";
+$_ADMINLANG['general']['changesuccess'] = "Alterações salvas com sucesso!";
 $_ADMINLANG['general']['changesuccessinfo'] = "As opções de configuração foram salvas com sucesso";
 $_ADMINLANG['general']['errorinvnumtoosml'] = "O próximo número de fatura deve ser maior que o maior número de fatura existente";
 $_ADMINLANG['general']['tabgeneral'] = "Geral";
@@ -2966,7 +2959,7 @@ $_ADMINLANG['general']['tabaffiliates'] = "Afiliados";
 $_ADMINLANG['general']['tabsecurity'] = "Segurança";
 $_ADMINLANG['general']['tabsocial'] = "Social";
 $_ADMINLANG['general']['tabother'] = "Outros";
-$_ADMINLANG['general']['companynameinfo'] = "O Nome da sua Empresa da forma como você quer que apareça em todo o sistema";
+$_ADMINLANG['general']['companynameinfo'] = "Nome da Empresa, forma que você quer que apareça em todo o sistema";
 $_ADMINLANG['general']['emailaddressinfo'] = "O endereço de envio padrão para os e-mails enviados pelo WHMCS";
 $_ADMINLANG['general']['domaininfo'] = "A URL para a página inicial do seu site";
 $_ADMINLANG['general']['logourl'] = "URL da Logo";
@@ -2981,7 +2974,7 @@ $_ADMINLANG['general']['limitactivitylog'] = "Limitar Log das Atividades";
 $_ADMINLANG['general']['limitactivityloginfo'] = "Número de Registros no Log das Atividades que você quer manter";
 $_ADMINLANG['general']['recstodisplay'] = "Registros para Exibir por Página";
 $_ADMINLANG['general']['maintmode'] = "Modo de Manutenção";
-$_ADMINLANG['general']['maintmodeinfo'] = "Marque para ativar - previne o acesso a Área do Cliente quando habilitado";
+$_ADMINLANG['general']['maintmodeinfo'] = "Marque para ativar - Previne o acesso a Área do Cliente quando habilitado";
 $_ADMINLANG['general']['maintmodemessage'] = "Mensagem do Modo de Manutenção";
 $_ADMINLANG['general']['maintmodeurl'] = "URL de Redirecionamento do Modo de Manutenção";
 $_ADMINLANG['general']['maintmodeurlinfo'] = "Se especificado, redireciona os visitantes da Área do Cliente para esse URL quando o modo de manutenção estiver ativado";
@@ -3433,7 +3426,7 @@ $_ADMINLANG['supportticketdepts']['emailreqdfordept'] = "Você deve digitar um e
 $_ADMINLANG['supportticketdepts']['namereqdfordept'] = "Você deve digitar um nome para o departamento";
 $_ADMINLANG['supportticketdepts']['deptaddsuccess'] = "Departamento Adicionado com Sucesso!";
 $_ADMINLANG['supportticketdepts']['deptaddsuccessdesc'] = "Lembre-se que você precisará designar algum operador que você deseja que tenha acesso ao novo departamento em <a href=\"configadmins.php\"> Opções > Gerenciamento de Equipe > Administradores</a> antes que ele seja visível";
-$_ADMINLANG['supportticketdepts']['changessavesuccess'] = "Alterações Salvas com Sucesso!";
+$_ADMINLANG['supportticketdepts']['changessavesuccess'] = "Alterações salvas com sucesso!";
 $_ADMINLANG['supportticketdepts']['changessavesuccessdesc'] = "Suas alterações no departamento de suporte foram salvas.";
 $_ADMINLANG['supportticketdepts']['supportticketdeptsconfigheredesc'] = "Aqui é onde você configura os seus departamentos de suporte por tickets. O endereço de e-mail que você digitar aqui será aquele utilizado para detectar emails enviados para esse departamento e todos os emails desse departamento também serão enviados utilizando esse endereço. Utilizar o redirecionamento do email para PIPE permite que os tickets sejam abertos e respondidos por email e pode ser configurado utilizando um dos métodos abaixo.";
 $_ADMINLANG['supportticketdepts']['ticketimportusingef'] = "Importação de Tickets utilizando Redirecionamentos de E-mail";
@@ -3498,13 +3491,13 @@ $_ADMINLANG['todolist']['additem'] = "Adicionar Item";
 $_ADMINLANG['todolist']['addtodoitem'] = "Adicionar Item a Fazer";
 $_ADMINLANG['todolist']['edittodoitem'] = "Editar Item a Fazer";
 $_ADMINLANG['todolist']['incomplete'] = "Incompleto";
-$_ADMINLANG['todolist']['assign'] = "Assign to Me";
-$_ADMINLANG['todolist']['setProgress'] = "Set In Progress";
-$_ADMINLANG['todolist']['setComplete'] = "Set as Completed";
-$_ADMINLANG['todolist']['setPostponed'] = "Set to Postponed";
-$_ADMINLANG['todolist']['inProgress'] = "In Progress";
-$_ADMINLANG['todolist']['completed'] = "Completed";
-$_ADMINLANG['todolist']['postponed'] = "Postponed";
+$_ADMINLANG['todolist']['assign'] = "Atribuir para Mim";
+$_ADMINLANG['todolist']['setProgress'] = "Definir em Andamento";
+$_ADMINLANG['todolist']['setComplete'] = "Definir como Concluído";
+$_ADMINLANG['todolist']['setPostponed'] = "Definir como Adiado";
+$_ADMINLANG['todolist']['inProgress'] = "Em Progresso";
+$_ADMINLANG['todolist']['completed'] = "Concluído";
+$_ADMINLANG['todolist']['postponed'] = "Adiado";
 
 # Resolver Check
 $_ADMINLANG['utilitiesresolvercheck']['domainresolverchecktitle'] = "Verificador dos Domínios";
@@ -3679,7 +3672,7 @@ $_ADMINLANG['promos']['existingclientdesc'] = "Aplicar apenas a clientes existen
 $_ADMINLANG['promos']['upgrades'] = "Upgrades/Downgrades";
 $_ADMINLANG['promos']['upgradesdesc'] = "Ativar para upgrade de produtos";
 $_ADMINLANG['promos']['upgradesinstructions'] = "Atualizar Instruções de Promoção";
-$_ADMINLANG['promos']['upgradesinstructionsinfo'] = "Para todos os códigos de promoção de upgrade, o campo 'Aplica-se a' define os produtos aos quais a promoção se aplica. <br /> Para upgrades / downgrades de produtos, 'Requer' também pode ser usado para restringir os produtos sendo atualizados de <br /> E para Opção configurável upgrades / downgrades, você pode selecionar as opções específicas para aplicar o desconto para abaixo <br /> Se você definir um valor de desconto & ativar recorrente acima, então a promoção de atualização também dará um desconto recorrente para o produto pai";
+$_ADMINLANG['promos']['upgradesinstructionsinfo'] = "Para todos os códigos de promoção de upgrade, o campo 'Aplica-se a' define os produtos aos quais a promoção se aplica.<br/>Para upgrades / downgrades de produtos, 'Requer' também pode ser usado para restringir os produtos sendo atualizados de<br/>E para Opção configurável upgrades / downgrades, você pode selecionar as opções específicas para aplicar o desconto para abaixo<br/>Se você definir um valor de desconto & ativar recorrente acima, então a promoção de atualização também dará um desconto recorrente para o produto pai";
 $_ADMINLANG['promos']['upgradetype'] = "Tipo de Upgrade";
 $_ADMINLANG['promos']['upgradediscount'] = "Desconto de Upgrade";
 $_ADMINLANG['promos']['configoptionsupgrades'] = "Config Opções Upgrades";
@@ -3708,7 +3701,7 @@ $_ADMINLANG['domainregistrars']['moduleactivatedinfo'] = "O registrador selecion
 $_ADMINLANG['domainregistrars']['moduledeactivated'] = "Módulo Registrador Desativado";
 $_ADMINLANG['domainregistrars']['moduledeactivatedinfo'] = "O registrador selecionado foi desativado com êxito.";
 $_ADMINLANG['domainregistrars']['deactivatesure'] = "Tem a certeza  que deseja desativar este módulo registrador?";
-$_ADMINLANG['domainregistrars']['changesuccess'] = "Alterações Salvas com Sucesso!";
+$_ADMINLANG['domainregistrars']['changesuccess'] = "Alterações salvas com sucesso!";
 $_ADMINLANG['domainregistrars']['changesuccessinfo'] = "As alterações feitas foram salvas com sucesso";
 
 # Product Bundles
@@ -3893,7 +3886,7 @@ $_ADMINLANG['twofa']['generalerror'] = "Ocorreu um erro ao carregar o módulo. P
 $_ADMINLANG['twofa']['activationcomplete'] = "A configuração de Autenticação Two-Factor está concluída!";
 $_ADMINLANG['twofa']['disabledconfirmation'] = "A Autenticação Two-Factor foi desativada para sua conta.";
 $_ADMINLANG['twofa']['backupcodeis'] = "O código de backup é";
-$_ADMINLANG['twofa']['backupcodeexpl'] = "Anote isso no papel e mantenha-o seguro. <br /> Será necessário se você perder seu dispositivo Autenticação Two-Factor ou se ele não estiver disponível para você.";
+$_ADMINLANG['twofa']['backupcodeexpl'] = "Anote isso no papel e mantenha-o seguro.<br/>Será necessário se você perder seu dispositivo Autenticação Two-Factor ou se ele não estiver disponível para você.";
 $_ADMINLANG['twofa']['disableclickhere'] = "Clique aqui para Desativar";
 $_ADMINLANG['twofa']['enableclickhere'] = "Clique aqui para Ativar";
 
@@ -3919,7 +3912,7 @@ $_ADMINLANG['eNomNameSpinner']['existingUsername'] = "Usuário Existente";
 $_ADMINLANG['eNomNameSpinner']['existingPassword'] = "Senha Existente";
 $_ADMINLANG['eNomNameSpinner']['ensureAuthorizedIp'] = "Certifique-se de ter autorizado o endereço IP externo deste servidor para acessar API com eNom. <a href=\"https://docs.whmcs.com/Enom\" target=\"_blank\"> Ajuda? </a>";
 $_ADMINLANG['eNomNameSpinner']['validatedApiLogin'] = "Detalhes de Login da API Validados";
-$_ADMINLANG['eNomNameSpinner']['validatedApiLoginDetails'] = "O Namespinner agora está ativado e pronto para uso. <br/> Visite o <a href=\"../domainchecker.php\" target=\"_blank\"> verificador de domínio </a> na Área do Cliente para experimentar.";
+$_ADMINLANG['eNomNameSpinner']['validatedApiLoginDetails'] = "O Namespinner agora está ativado e pronto para uso.<br/> Visite o <a href=\"../domainchecker.php\" target=\"_blank\"> verificador de domínio </a> na Área do Cliente para experimentar.";
 $_ADMINLANG['eNomNameSpinner']['optionalConfigurationSettings'] = "Definições de Configuração Opcionais";
 $_ADMINLANG['eNomNameSpinner']['includeAdultDomains'] = "Incluir domínios adultos nos resultados do spin";
 $_ADMINLANG['eNomNameSpinner']['excludeTldFromSuggestions'] = "Exclua os seguintes TLDs das sugestões";
@@ -3941,7 +3934,7 @@ $_ADMINLANG['fields']['proformaInvoiceNum'] = "Fatura Proforma #";
 $_ADMINLANG['general']['noActivityLogForClient'] = "Não é possível exibir a atividade para inscrições de ticket de convidado.";
 
 $_ADMINLANG['healthCheck']['title'] = "Status do Sistema";
-$_ADMINLANG['healthCheck']['exportAsJson'] = "Exportar Como Json";
+$_ADMINLANG['healthCheck']['exportAsJson'] = "Exportar Como JSON";
 $_ADMINLANG['healthCheck']['exportAsText'] = "Exportar Como Texto";
 $_ADMINLANG['healthCheck']['allChecksPassed'] = "Todas :count checagens do sistema passaram!";
 $_ADMINLANG['healthCheck']['checksPassed'] = ":count checagens concluídas";
@@ -4139,7 +4132,6 @@ $_ADMINLANG['update']['notWritablePath'] = "Erro de permissão. Falha ao criar o
 
 // Wizard
 $_ADMINLANG['wizard']['enable'] = "Habilitar";
-
 $_ADMINLANG['wizard']['placeholderYourName'] = "Seu Nome";
 $_ADMINLANG['wizard']['placeholderEmail'] = "E-mail";
 $_ADMINLANG['wizard']['placeholderAddress'] = "Endereço";
@@ -4151,7 +4143,6 @@ $_ADMINLANG['wizard']['placeholderPhoneNumber'] = "Telefone";
 $_ADMINLANG['wizard']['placeholderUsername'] = "Nome de Usuário Desejado";
 $_ADMINLANG['wizard']['placeholderPassword'] = "Senha Desejada";
 $_ADMINLANG['wizard']['placeholderSecurityQuestionAnswer'] = "Resposta Desejada";
-
 $_ADMINLANG['wizard']['requiredFieldYourName'] = "Seu nome é obrigatório.";
 $_ADMINLANG['wizard']['requiredFieldEmail'] = "Seu e-mail é obrigatório.";
 $_ADMINLANG['wizard']['emailFailedValidation'] = "Verifique se o endereço de e-mail que você digitou está correto.";
@@ -4167,7 +4158,6 @@ $_ADMINLANG['wizard']['requiredFieldSecurityQuestion'] = "Você deve escolher um
 $_ADMINLANG['wizard']['requiredFieldSecurityQuestionAnswer'] = "Você deve fornecer uma resposta de segurança.";
 $_ADMINLANG['wizard']['requiredFieldCompanyName'] = "O nome da sua empresa é obrigatório.";
 $_ADMINLANG['wizard']['requiredFieldLanguage'] = "Selecione um idioma.";
-
 $_ADMINLANG['wizard']['stepGeneral'] = "Geral";
 $_ADMINLANG['wizard']['stepGeneralDesc'] = "Conte-nos um pouco sobre você";
 $_ADMINLANG['wizard']['stepPayments'] = "Pagamentos";
@@ -4180,26 +4170,22 @@ $_ADMINLANG['wizard']['stepEnom'] = "Registro Enom";
 $_ADMINLANG['wizard']['stepEnomDesc'] = "Criar Conta Enom";
 $_ADMINLANG['wizard']['stepWebHosting'] = "Hospedagem Web";
 $_ADMINLANG['wizard']['stepWebHostingDesc'] = "Conecte-se ao seu primeiro servidor";
-
 $_ADMINLANG['wizard']['welcome'] = "Bem-vindo(a) ao WHMCS!";
 $_ADMINLANG['wizard']['intro'] = "Em apenas alguns minutos, vamos fazer sua configuração e você estará pronto para começar a operar.";
 $_ADMINLANG['wizard']['noTime'] = "Não tem tempo agora? Você pode executar este assistente novamente a qualquer momento no menu Ajuda.";
-
 $_ADMINLANG['wizard']['settingsIntro'] = "Vamos começar coletando algumas informações importantes sobre o seu negócio.";
 $_ADMINLANG['wizard']['settingsEmailDescription'] = "Este endereço de e-mail é usado como remetente padrão para todos os e-mails.";
 $_ADMINLANG['wizard']['settingsAddressDescription'] = "Seu endereço é exibido nas faturas entregues aos clientes.";
 $_ADMINLANG['wizard']['settingsCountryDescription'] = "Este deve ser o seu principal país de negócios.";
 $_ADMINLANG['wizard']['settingsLanguageDescription'] = "Determina o idioma padrão dos usuários.";
-
 $_ADMINLANG['wizard']['gatewaysIntro'] = "Podemos ativar alguns gateways de pagamento para você agora para que você possa receber pagamentos imediatamente";
 $_ADMINLANG['wizard']['paypal'] = "PayPal";
-$_ADMINLANG['wizard']['paypalDescription'] = "A solução de pagamento on-line <strong> líder </ strong> do mundo. <br /> Amplamente reconhecido, seguro e conveniente para compradores.";
+$_ADMINLANG['wizard']['paypalDescription'] = "A solução de pagamento on-line <strong>líder</strong> do mundo.<br/>Amplamente reconhecido, seguro e conveniente para compradores.";
 $_ADMINLANG['wizard']['paypalEnterEmail'] = "Digite o endereço de e-mail do PayPal desejado aqui";
 $_ADMINLANG['wizard']['paypalDontHaveAccount'] = "Não tem uma conta PayPal? Você será solicitado a criar um quando receber seu primeiro pagamento.";
 $_ADMINLANG['wizard']['paypalMustProvideEmailAddress'] = "Você deve digitar um endereço de e-mail para que o PayPal continue";
-
 $_ADMINLANG['wizard']['creditCard'] = "Conta de Comerciante";
-$_ADMINLANG['wizard']['creditCardDescription'] = "Aceite cartões de crédito usando WHMCS. <br /> Aplicação rápida e fácil e as melhores taxas <strong> garantidas </ strong>.";
+$_ADMINLANG['wizard']['creditCardDescription'] = "Aceite cartões de crédito usando WHMCS.<br/>Aplicação rápida e fácil e as melhores taxas <strong>garantidas</strong>.";
 $_ADMINLANG['wizard']['creditCardApply'] = "Marque esta caixa para solicitar uma conta de comerciante.";
 $_ADMINLANG['wizard']['mailIn'] = "Pagamento por Correio";
 $_ADMINLANG['wizard']['mailInDescription'] = "Aceitar pagamentos offline por cheque / correio";
@@ -4209,7 +4195,6 @@ $_ADMINLANG['wizard']['creditCardSignupContact'] = "Forneça seus detalhes abaix
 $_ADMINLANG['wizard']['creditCardAgreeInfoSharing'] = "Ao fornecer suas informações aqui, você concorda em compartilhar seus detalhes com o nosso parceiro comercial.";
 $_ADMINLANG['wizard']['creditCardApplicationStarted'] = "Seu aplicativo foi iniciado!";
 $_ADMINLANG['wizard']['creditCardApplicationNextSteps'] = "Você receberá um e-mail com os próximos passos.";
-
 $_ADMINLANG['wizard']['sellingDomains'] = "Se você irá vender domínios, vamos começar a configuração.";
 $_ADMINLANG['wizard']['enableDomains'] = "Ativar Domínios";
 $_ADMINLANG['wizard']['setupExtensions'] = "Podemos configurar as seguintes extensões para você agora.";
@@ -4218,9 +4203,9 @@ $_ADMINLANG['wizard']['extensionsAddMoreLater'] = "Não se preocupe, você pode 
 $_ADMINLANG['wizard']['extensionsChangeLater'] = "Você pode alterar isso mais tarde na Configuração do Domínio.";
 $_ADMINLANG['wizard']['domainRegistrarPromo'] = "Para poder começar a registrar domínios imediatamente, você precisará de uma conta de revendedor de domínio. Recomendamos eNom.";
 $_ADMINLANG['wizard']['registrarEnom'] = "Registrador de Domínio eNom";
-$_ADMINLANG['wizard']['registrarEnomDescription'] = "A eNom, Inc. é registradora de nomes de domínio credenciada pela ICANN e classificada como o Registrador de Revendedores <strong> # 1 </ strong>.";
+$_ADMINLANG['wizard']['registrarEnomDescription'] = "A eNom, Inc. é registradora de nomes de domínio credenciada pela ICANN e classificada como o Registrador de Revendedores <strong># 1</strong>.";
 $_ADMINLANG['wizard']['createFreeEnomAccount'] = "Marque esta caixa para criar uma conta GRÁTIS no eNom agora.";
-$_ADMINLANG['wizard']['registrarEnomCreateAccountDescription'] = "Crie uma conta no eNom. <br /> Registre e gerencie domínios de forma totalmente automática.";
+$_ADMINLANG['wizard']['registrarEnomCreateAccountDescription'] = "Crie uma conta no eNom.<br/>Registre e gerencie domínios de forma totalmente automática.";
 $_ADMINLANG['wizard']['enomAlreadyHaveAccount'] = "Já possui uma conta eNom?";
 $_ADMINLANG['wizard']['loginUsingExistingAccount'] = "Faça login usando sua conta existente";
 $_ADMINLANG['wizard']['dontHaveAnEnomAccount'] = "Não tem uma conta eNom ou não consegue se lembrar das suas credenciais?";
@@ -4239,7 +4224,6 @@ $_ADMINLANG['wizard']['enomAccountManagementUrl'] = "Você pode acessar e gerenc
 $_ADMINLANG['wizard']['enomApiUsername'] = "Nome de Usuário eNom";
 $_ADMINLANG['wizard']['enomApiToken'] = "eNom API Token";
 $_ADMINLANG['wizard']['enomCreateToken'] = "Criar um agora";
-
 $_ADMINLANG['wizard']['sellingWebHosting'] = "Vendendo hospedagem web? Podemos configurar o seu primeiro servidor agora.";
 $_ADMINLANG['wizard']['serverTypeNotListed'] = "Se você usar um tipo de servidor não listado abaixo, você será capaz de configurá-lo mais tarde.";
 $_ADMINLANG['wizard']['testServerConnectionDescription'] = "Clique para testar a conexão e preencher automaticamente os valores restantes";
@@ -4251,7 +4235,6 @@ $_ADMINLANG['wizard']['serverNameExample'] = "servidor1";
 $_ADMINLANG['wizard']['serverPrimaryIp'] = "IP Primário";
 $_ADMINLANG['wizard']['displayedInWelcomeEmails'] = "Exibido em e-mails de boas-vindas";
 $_ADMINLANG['wizard']['testConnectionSuccessful'] = "Conexão bem sucedida! Os detalhes restantes foram preenchidos para você.";
-
 $_ADMINLANG['wizard']['setupComplete'] = "Configuração Completa!";
 $_ADMINLANG['wizard']['readyToBeginUsing'] = "Agora você está pronto para começar a usar o WHMCS.";
 $_ADMINLANG['wizard']['runAgainMsg'] = "Caso necessite, pode executar este assistente novamente a qualquer momento a partir do menu Ajuda.";
@@ -4518,15 +4501,15 @@ $_ADMINLANG['dateTime']['hours'] = "Horas";
 $_ADMINLANG['dateTime']['minute'] = "Minuto";
 $_ADMINLANG['dateTime']['minutes'] = "Minutos";
 
-$_ADMINLANG['marketConnect']['yourAccount'] = "Your Account";
-$_ADMINLANG['marketConnect']['sellingStatus'] = "Selling Status";
-$_ADMINLANG['marketConnect']['yourBalance'] = "Your Balance";
-$_ADMINLANG['marketConnect']['points'] = "Points";
-$_ADMINLANG['marketConnect']['loginCreate'] = "Login/Create Account";
-$_ADMINLANG['marketConnect']['depositFunds'] = "Deposit Funds";
-$_ADMINLANG['marketConnect']['disconnect'] = "Disconnect";
-$_ADMINLANG['marketConnect']['refresh'] = "Refresh";
-$_ADMINLANG['marketConnect']['lastUpdated'] = "Last Updated";
+$_ADMINLANG['marketConnect']['yourAccount'] = "Sua Conta";
+$_ADMINLANG['marketConnect']['sellingStatus'] = "Status de Venda";
+$_ADMINLANG['marketConnect']['yourBalance'] = "Seu Balanço";
+$_ADMINLANG['marketConnect']['points'] = "Pontos";
+$_ADMINLANG['marketConnect']['loginCreate'] = "Login/Criar Conta";
+$_ADMINLANG['marketConnect']['depositFunds'] = "Depositar Fundos";
+$_ADMINLANG['marketConnect']['disconnect'] = "Desconectar";
+$_ADMINLANG['marketConnect']['refresh'] = "Atualizar";
+$_ADMINLANG['marketConnect']['lastUpdated'] = "Ultima Atualização";
 $_ADMINLANG['marketConnect']['linkedTo'] = "Linked to";
 $_ADMINLANG['marketConnect']['add'] = "Add :product";
 
