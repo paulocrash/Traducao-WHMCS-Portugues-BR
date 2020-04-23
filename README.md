@@ -1,16 +1,16 @@
 # Tradução WHMCS v7.X.X | Português - Brasil
 Tradução do WHMCS v7.X.X | Português - Brasil, baseada no arquivo Português Brasil original do WHMCS v7.
 
-### Índice
+## Índice
 - [Instruções para Instalação](#instruções-para-instalação)
 - [Changelog](#changelog)
 - [Suporte](#suporte)
 - [Contribuição](#contribuição)
 - [Agradecimentos](#agradecimentos)
 
-### Instruções para Instalação
+## Instruções para Instalação
 1. Faça download da **versão estavel [clicando aqui](https://github.com/paulocrash/Traducao-WHMCS-7.x-pt_BR/archive/master.zip)**;
-3. Utilizando programa de FTP, envie as pasta `**admin**` e `**lang**` do WHMCS para seu diretorio de instalação; ***(Obs.: Substitua os arquivos atuais)***
+3. Utilizando programa de FTP, envie as pasta **`admin`** e **`lang`** do WHMCS para seu diretorio de instalação; ***(Obs.: Substitua os arquivos atuais)***
 
 **Recomendamos o uso do [FileZilla](https://filezilla-project.org/) para fazer upload dos arquivos via FTP.**
 
@@ -18,15 +18,15 @@ Tradução do WHMCS v7.X.X | Português - Brasil, baseada no arquivo Português 
 
 4. Acesse sua Área de Admin no WHMCS;
 5. Utilize o menu de navegação para ir para ***“Opções -> Configurações Gerais -> Localização”***;
-6. No campo ***"Idioma Padrão, selecione `***Portuguese-br***` e clique em Salvar Alterações***";
+6. No campo ***"Idioma Padrão, selecione ***`Portuguese-br`*** e clique em Salvar Alterações***";
 
 **- Área do Admin**
 
 7. Utilize o menu de navegação vá para ***"Minha Conta"***;
-8. No campo ***"Idioma, selecione `***Portugues***`, insira sua senha em '***Confirmar Senha***' e clique em Salvar Alterações"***;
+8. No campo ***"Idioma, selecione ***`Portugues`***, insira sua senha em ***'Confirmar Senha'*** e clique em Salvar Alterações"***;
 
-### Changelog
-###### 17/01/2020
+## Changelog
+### 17/01/2020
 - Adicionado traduções do Itens a Fazer;
 - Adicionado traduções do Caléndário na Área Admin;
 - Adicionado traduções do Painel de Administração na Área Admin;
@@ -38,46 +38,46 @@ Tradução do WHMCS v7.X.X | Português - Brasil, baseada no arquivo Português 
 - Corrigido erros de tradução na Área do Cliente;
 - Teste de compatibilidade efetuado na versão 7.8.3;
 
-###### 27/12/2019
+#### 27/12/2019
 - Atualizado o README;
 - Adicionado novas traduções na Área do Cliente & Área Admin;
 - Atualizado traduções na Área do Cliente & Área Admin;
 - Corrigidos erros de tradução na Área do Cliente & Área Admin;
 - Teste de compatibilidade efetuado na versão 7.8.3;
 
-###### 20/12/2019
+#### 20/12/2019
 - Atualizado para a versão 7.8.3;
 - Atualizado o README;
 - Adicionado novas traduções;
 - Teste de compatibilidade efetuado na versão 7.8.3;
 - Traduções incorretas corrigidas;
 
-###### 20/01/2018
+#### 20/01/2018
  - Atualizado para a versão 7.4.2;
  - Teste de compatibilidade efetuado na versão 7.4.2;
  - Traduções incorretas corrigidas;
  - Adicionado novas traduções;
  
-###### 03/11/2017
+#### 03/11/2017
  - Atualizado para a versão 7.3.0;
  - Teste de compatibilidade efetuado na versão 7.3.0;
  - Traduções incorretas corrigidas;
  - Adicionado novas traduções;
  
-###### 18/07/2017
+#### 18/07/2017
  - Atualizado para a versão 7.2.3;
  - Teste de compatibilidade efetuado na versão 7.2.3;
  - Traduções incorretas corrigidas;
  - Adicionado novas traduções;
 
-###### 02/06/2017
+#### 02/06/2017
  - Teste de compatibilidade efetuado na versão 7.2.2;
  - Traduções incorretas corrigidas;
 
-### Suporte
+## Suporte
 Precisando de suporte, basta usar [Issues](https://github.com/paulocrash/Traducao-WHMCS-7.x-pt_BR/issues/new/choose) ou nosso [Discord](https://discord.gg/vzCanCk).
 
-### Contribuição
+## Contribuição
 Tem alguma contribuição que gostaria de fazer para o projeto, algum BUG que encontrou e corrigiu, seja bem-vindo, faça um **Pull Request** e ajude a comunidade.
 
 **Como fazer um *Pull Request:***
