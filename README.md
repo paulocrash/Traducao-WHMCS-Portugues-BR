@@ -10,7 +10,7 @@ Tradução do WHMCS v7.X.X | Português - Brasil, baseada no arquivo Português 
 
 ### Instruções para Instalação
 1. Faça download da **versão estavel [clicando aqui](https://github.com/paulocrash/Traducao-WHMCS-7.x-pt_BR/archive/master.zip)**;
-3. Utilizando programa de FTP, envie as pasta `admin` e `lang` do WHMCS para seu diretorio de instalação; ***(Obs.: Substitua os arquivos atuais)***
+3. Utilizando programa de FTP, envie as pasta `**admin**` e `**lang**` do WHMCS para seu diretorio de instalação; ***(Obs.: Substitua os arquivos atuais)***
 
 **Recomendamos o uso do [FileZilla](https://filezilla-project.org/) para fazer upload dos arquivos via FTP.**
 
@@ -18,12 +18,12 @@ Tradução do WHMCS v7.X.X | Português - Brasil, baseada no arquivo Português 
 
 4. Acesse sua Área de Admin no WHMCS;
 5. Utilize o menu de navegação para ir para ***“Opções -> Configurações Gerais -> Localização”***;
-6. No campo ***"Idioma Padrão, selecione `__Portuguese-br__` e clique em Salvar Alterações***";
+6. No campo ***"Idioma Padrão, selecione `***Portuguese-br***` e clique em Salvar Alterações***";
 
 **- Área do Admin**
 
 7. Utilize o menu de navegação vá para ***"Minha Conta"***;
-8. No campo ***"Idioma, selecione `__Portugues__`, insira sua senha em '__Confirmar Senha__' e clique em Salvar Alterações"***;
+8. No campo ***"Idioma, selecione `***Portugues***`, insira sua senha em '***Confirmar Senha***' e clique em Salvar Alterações"***;
 
 ### Changelog
 ###### 17/01/2020
@@ -83,7 +83,7 @@ Tem alguma contribuição que gostaria de fazer para o projeto, algum BUG que en
 **Como fazer um *Pull Request:***
 1. Faça o ***fork*** do projeto [clicando aqui](https://github.com/paulocrash/Traducao-WHMCS-Portugues-BR/fork); 
 2. Faça as alterações que gostaria em seu ***fork***;
-3. Feito as alterações faça um ***Pull Request*** do seu fork para o nosso branch ***dev***;
+3. Feito as alterações faça um ***Pull Request*** do seu fork para o nosso branch ***master***;
 
 ### Créditos
 * [suportgc](https://github.com/suportgc) - Versão de tradução usada do [Fork](https://github.com/suportgc/Traducao-WHMCS-7.x-pt_BR);
