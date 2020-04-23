@@ -10,7 +10,6 @@ Tradução do WHMCS v7.X.X | Português - Brasil, baseada no arquivo Português 
 
 ### Instruções para Instalação
 1. Faça download da **versão estavel [clicando aqui](https://github.com/paulocrash/Traducao-WHMCS-7.x-pt_BR/archive/master.zip)**;
-2. Faça download da **versão em desenvolvimento [clicando aqui](https://github.com/paulocrash/Traducao-WHMCS-Portugues-BR/archive/dev.zip)**;
 3. Utilizando programa de FTP, envie as pasta `admin` e `lang` do WHMCS para seu diretorio de instalação; ***(Obs.: Substitua os arquivos atuais)***
 
 **Recomendamos o uso do [FileZilla](https://filezilla-project.org/) para fazer upload dos arquivos via FTP.**
