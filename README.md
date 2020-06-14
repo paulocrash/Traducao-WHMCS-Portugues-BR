@@ -2,13 +2,13 @@
 Tradução do WHMCS v7.X.X | Português - Brasil, baseada no arquivo Português Brasil original do WHMCS v7.
 
 ## Índice
-- [Instruções para Instalação](#instruções-para-instalação)
+- [Instalação](#instalação)
 - [Changelog](#changelog)
 - [Suporte](#suporte)
 - [Contribuição](#contribuição)
 - [Agradecimentos](#agradecimentos)
 
-## Instruções para Instalação
+## Instalação
 1. Faça download da **versão estavel [clicando aqui](https://github.com/paulocrash/Traducao-WHMCS-7.x-pt_BR/archive/master.zip)**;
 3. Utilizando programa de FTP, envie as pasta **`admin`** e **`lang`** do WHMCS para seu diretorio de instalação; ***(Obs.: Substitua os arquivos atuais)***
 
@@ -38,41 +38,41 @@ Tradução do WHMCS v7.X.X | Português - Brasil, baseada no arquivo Português 
 - Corrigido erros de tradução na Área do Cliente;
 - Teste de compatibilidade efetuado na versão 7.8.3;
 
-#### 27/12/2019
+### 27/12/2019
 - Atualizado o README;
 - Adicionado novas traduções na Área do Cliente & Área Admin;
 - Atualizado traduções na Área do Cliente & Área Admin;
 - Corrigidos erros de tradução na Área do Cliente & Área Admin;
 - Teste de compatibilidade efetuado na versão 7.8.3;
 
-#### 20/12/2019
+### 20/12/2019
 - Atualizado para a versão 7.8.3;
 - Atualizado o README;
 - Adicionado novas traduções;
 - Teste de compatibilidade efetuado na versão 7.8.3;
 - Traduções incorretas corrigidas;
 
-#### 20/01/2018
- - Atualizado para a versão 7.4.2;
- - Teste de compatibilidade efetuado na versão 7.4.2;
- - Traduções incorretas corrigidas;
- - Adicionado novas traduções;
+### 20/01/2018
+- Atualizado para a versão 7.4.2;
+- Teste de compatibilidade efetuado na versão 7.4.2;
+- Traduções incorretas corrigidas;
+- Adicionado novas traduções;
  
-#### 03/11/2017
- - Atualizado para a versão 7.3.0;
- - Teste de compatibilidade efetuado na versão 7.3.0;
- - Traduções incorretas corrigidas;
- - Adicionado novas traduções;
+### 03/11/2017
+- Atualizado para a versão 7.3.0;
+- Teste de compatibilidade efetuado na versão 7.3.0;
+- Traduções incorretas corrigidas;
+- Adicionado novas traduções;
  
-#### 18/07/2017
- - Atualizado para a versão 7.2.3;
- - Teste de compatibilidade efetuado na versão 7.2.3;
- - Traduções incorretas corrigidas;
- - Adicionado novas traduções;
+### 18/07/2017
+- Atualizado para a versão 7.2.3;
+- Teste de compatibilidade efetuado na versão 7.2.3;
+- Traduções incorretas corrigidas;
+- Adicionado novas traduções;
 
-#### 02/06/2017
- - Teste de compatibilidade efetuado na versão 7.2.2;
- - Traduções incorretas corrigidas;
+### 02/06/2017
+- Teste de compatibilidade efetuado na versão 7.2.2;
+- Traduções incorretas corrigidas;
 
 ## Suporte
 Precisando de suporte, basta usar [Issues](https://github.com/paulocrash/Traducao-WHMCS-7.x-pt_BR/issues/new/choose) ou nosso [Discord](https://discord.gg/vzCanCk).
@@ -85,5 +85,5 @@ Tem alguma contribuição que gostaria de fazer para o projeto, algum BUG que en
 2. Faça as alterações que gostaria em seu ***fork***;
 3. Feito as alterações faça um ***Pull Request*** do seu fork para o nosso branch ***master***;
 
-### Créditos
+## Créditos
 * [suportgc](https://github.com/suportgc) - Versão de tradução usada do [Fork](https://github.com/suportgc/Traducao-WHMCS-7.x-pt_BR);
